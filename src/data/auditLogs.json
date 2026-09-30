@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "log-1000",
+    "timestamp": "2026-09-30 09:00:00",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_LOGIN",
+    "target": "CRS-DWR-101",
+    "details": "Standard operation USER_LOGIN executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.2"
+  },
+  {
+    "id": "log-1001",
+    "timestamp": "2026-09-30 10:13:29",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "Smt. Priya Sundaram",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.9"
+  },
+  {
+    "id": "log-1002",
+    "timestamp": "2026-09-30 11:26:58",
+    "actorName": "Shri Biman Baruah",
+    "actorRole": "TRAINEE",
+    "action": "COURSE_PUBLISHED",
+    "target": "CRS-NWP-301",
+    "details": "Standard operation COURSE_PUBLISHED executed by Shri Biman Baruah from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.16"
+  },
+  {
+    "id": "log-1003",
+    "timestamp": "2026-09-30 12:39:27",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "CERTIFICATE_MINTED",
+    "target": "Kavita Menon",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.23"
+  },
+  {
+    "id": "log-1004",
+    "timestamp": "2026-09-29 13:52:56",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "USER_APPROVAL",
+    "target": "CRS-SAT-202",
+    "details": "Standard operation USER_APPROVAL executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.30"
+  },
+  {
+    "id": "log-1005",
+    "timestamp": "2026-09-29 14:05:25",
+    "actorName": "Ananya Mukherjee",
+    "actorRole": "TRAINEE",
+    "action": "EXAM_SUBMISSION",
+    "target": "Ananya Mukherjee",
+    "details": "Standard operation EXAM_SUBMISSION executed by Ananya Mukherjee from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.37"
+  },
+  {
+    "id": "log-1006",
+    "timestamp": "2026-09-29 15:18:54",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "FACULTY_INVITED",
+    "target": "CRS-AVI-203",
+    "details": "Standard operation FACULTY_INVITED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.44"
+  },
+  {
+    "id": "log-1007",
+    "timestamp": "2026-09-29 16:31:23",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "FACULTY_ACCEPTED",
+    "target": "Sunita Devi",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.51"
+  },
+  {
+    "id": "log-1008",
+    "timestamp": "2026-09-28 17:44:52",
+    "actorName": "Anitha Krishnan",
+    "actorRole": "TRAINEE",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "CRS-DQC-105",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Anitha Krishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.58"
+  },
+  {
+    "id": "log-1009",
+    "timestamp": "2026-09-28 18:57:21",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "PROFILE_UPDATED",
+    "target": "Priya Nair",
+    "details": "Standard operation PROFILE_UPDATED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.65"
+  },
+  {
+    "id": "log-1010",
+    "timestamp": "2026-09-28 09:10:50",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "PASSWORD_CHANGED",
+    "target": "CRS-HPC-303",
+    "details": "Standard operation PASSWORD_CHANGED executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.72"
+  },
+  {
+    "id": "log-1011",
+    "timestamp": "2026-09-28 10:23:19",
+    "actorName": "Pooja Sharma",
+    "actorRole": "TRAINEE",
+    "action": "USER_LOGIN",
+    "target": "Pooja Sharma",
+    "details": "Standard operation USER_LOGIN executed by Pooja Sharma from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.79"
+  },
+  {
+    "id": "log-1012",
+    "timestamp": "2026-09-27 11:36:48",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "CRS-MAR-205",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.86"
+  },
+  {
+    "id": "log-1013",
+    "timestamp": "2026-09-27 12:49:17",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "COURSE_PUBLISHED",
+    "target": "Kiran Deka",
+    "details": "Standard operation COURSE_PUBLISHED executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.93"
+  },
+  {
+    "id": "log-1014",
+    "timestamp": "2026-09-27 13:02:46",
+    "actorName": "Gurpreet Kaur",
+    "actorRole": "TRAINEE",
+    "action": "CERTIFICATE_MINTED",
+    "target": "CRS-URB-107",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Gurpreet Kaur from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.100"
+  },
+  {
+    "id": "log-1015",
+    "timestamp": "2026-09-27 14:15:15",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_APPROVAL",
+    "target": "Nandini Reddy",
+    "details": "Standard operation USER_APPROVAL executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.107"
+  },
+  {
+    "id": "log-1016",
+    "timestamp": "2026-09-26 15:28:44",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "EXAM_SUBMISSION",
+    "target": "CRS-DRT-208",
+    "details": "Standard operation EXAM_SUBMISSION executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.114"
+  },
+  {
+    "id": "log-1017",
+    "timestamp": "2026-09-26 16:41:13",
+    "actorName": "Snigdha Roy",
+    "actorRole": "TRAINEE",
+    "action": "FACULTY_INVITED",
+    "target": "Snigdha Roy",
+    "details": "Standard operation FACULTY_INVITED executed by Snigdha Roy from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.121"
+  },
+  {
+    "id": "log-1018",
+    "timestamp": "2026-09-26 17:54:42",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "FACULTY_ACCEPTED",
+    "target": "CRS-SPW-304",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.128"
+  },
+  {
+    "id": "log-1019",
+    "timestamp": "2026-09-26 18:07:11",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "Manju Swaminathan",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.135"
+  },
+  {
+    "id": "log-1020",
+    "timestamp": "2026-09-25 09:20:40",
+    "actorName": "Alok Ranjan",
+    "actorRole": "TRAINEE",
+    "action": "PROFILE_UPDATED",
+    "target": "CRS-DWR-101",
+    "details": "Standard operation PROFILE_UPDATED executed by Alok Ranjan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.142"
+  },
+  {
+    "id": "log-1021",
+    "timestamp": "2026-09-25 10:33:09",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "PASSWORD_CHANGED",
+    "target": "Sourav Ganguly",
+    "details": "Standard operation PASSWORD_CHANGED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.149"
+  },
+  {
+    "id": "log-1022",
+    "timestamp": "2026-09-25 11:46:38",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "USER_LOGIN",
+    "target": "CRS-NWP-301",
+    "details": "Standard operation USER_LOGIN executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.156"
+  },
+  {
+    "id": "log-1023",
+    "timestamp": "2026-09-25 12:59:07",
+    "actorName": "Tanvi Deshmukh",
+    "actorRole": "TRAINEE",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "Tanvi Deshmukh",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Tanvi Deshmukh from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.163"
+  },
+  {
+    "id": "log-1024",
+    "timestamp": "2026-09-24 13:12:36",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "COURSE_PUBLISHED",
+    "target": "CRS-SAT-202",
+    "details": "Standard operation COURSE_PUBLISHED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.170"
+  },
+  {
+    "id": "log-1025",
+    "timestamp": "2026-09-24 14:25:05",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "CERTIFICATE_MINTED",
+    "target": "Rinchen Norbu",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.177"
+  },
+  {
+    "id": "log-1026",
+    "timestamp": "2026-09-24 15:38:34",
+    "actorName": "Latha Venkatraman",
+    "actorRole": "TRAINEE",
+    "action": "USER_APPROVAL",
+    "target": "CRS-AVI-203",
+    "details": "Standard operation USER_APPROVAL executed by Latha Venkatraman from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.184"
+  },
+  {
+    "id": "log-1027",
+    "timestamp": "2026-09-24 16:51:03",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "EXAM_SUBMISSION",
+    "target": "Hemant Bisht",
+    "details": "Standard operation EXAM_SUBMISSION executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.191"
+  },
+  {
+    "id": "log-1028",
+    "timestamp": "2026-09-23 17:04:32",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "FACULTY_INVITED",
+    "target": "CRS-DQC-105",
+    "details": "Standard operation FACULTY_INVITED executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.198"
+  },
+  {
+    "id": "log-1029",
+    "timestamp": "2026-09-23 18:17:01",
+    "actorName": "Gagandeep Singh",
+    "actorRole": "TRAINEE",
+    "action": "FACULTY_ACCEPTED",
+    "target": "Gagandeep Singh",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Gagandeep Singh from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.205"
+  },
+  {
+    "id": "log-1030",
+    "timestamp": "2026-09-23 09:30:30",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "CRS-HPC-303",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.212"
+  },
+  {
+    "id": "log-1031",
+    "timestamp": "2026-09-23 10:43:59",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "PROFILE_UPDATED",
+    "target": "Mahesh Bhatt",
+    "details": "Standard operation PROFILE_UPDATED executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.219"
+  },
+  {
+    "id": "log-1032",
+    "timestamp": "2026-09-22 11:56:28",
+    "actorName": "Sushmita Das",
+    "actorRole": "TRAINEE",
+    "action": "PASSWORD_CHANGED",
+    "target": "CRS-MAR-205",
+    "details": "Standard operation PASSWORD_CHANGED executed by Sushmita Das from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.226"
+  },
+  {
+    "id": "log-1033",
+    "timestamp": "2026-09-22 12:09:57",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_LOGIN",
+    "target": "Dinesh Chandra",
+    "details": "Standard operation USER_LOGIN executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.233"
+  },
+  {
+    "id": "log-1034",
+    "timestamp": "2026-09-22 13:22:26",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "CRS-URB-107",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.240"
+  },
+  {
+    "id": "log-1035",
+    "timestamp": "2026-09-22 14:35:55",
+    "actorName": "Rohit Verma",
+    "actorRole": "TRAINEE",
+    "action": "COURSE_PUBLISHED",
+    "target": "Rohit Verma",
+    "details": "Standard operation COURSE_PUBLISHED executed by Rohit Verma from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.247"
+  },
+  {
+    "id": "log-1036",
+    "timestamp": "2026-09-21 15:48:24",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "CERTIFICATE_MINTED",
+    "target": "CRS-DRT-208",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.4"
+  },
+  {
+    "id": "log-1037",
+    "timestamp": "2026-09-21 16:01:53",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "USER_APPROVAL",
+    "target": "Prakash Soren",
+    "details": "Standard operation USER_APPROVAL executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.11"
+  },
+  {
+    "id": "log-1038",
+    "timestamp": "2026-09-21 17:14:22",
+    "actorName": "Jagdish Prasad",
+    "actorRole": "TRAINEE",
+    "action": "EXAM_SUBMISSION",
+    "target": "CRS-SPW-304",
+    "details": "Standard operation EXAM_SUBMISSION executed by Jagdish Prasad from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.18"
+  },
+  {
+    "id": "log-1039",
+    "timestamp": "2026-09-21 18:27:51",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "FACULTY_INVITED",
+    "target": "Swati Chawla",
+    "details": "Standard operation FACULTY_INVITED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.25"
+  },
+  {
+    "id": "log-1040",
+    "timestamp": "2026-09-20 09:40:20",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "FACULTY_ACCEPTED",
+    "target": "CRS-DWR-101",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.32"
+  },
+  {
+    "id": "log-1041",
+    "timestamp": "2026-09-20 10:53:49",
+    "actorName": "Smt. Priya Sundaram",
+    "actorRole": "TRAINEE",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "Smt. Priya Sundaram",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Smt. Priya Sundaram from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.39"
+  },
+  {
+    "id": "log-1042",
+    "timestamp": "2026-09-20 11:06:18",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "PROFILE_UPDATED",
+    "target": "CRS-NWP-301",
+    "details": "Standard operation PROFILE_UPDATED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.46"
+  },
+  {
+    "id": "log-1043",
+    "timestamp": "2026-09-20 12:19:47",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "PASSWORD_CHANGED",
+    "target": "Kavita Menon",
+    "details": "Standard operation PASSWORD_CHANGED executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.53"
+  },
+  {
+    "id": "log-1044",
+    "timestamp": "2026-09-19 13:32:16",
+    "actorName": "Debabrata Das",
+    "actorRole": "TRAINEE",
+    "action": "USER_LOGIN",
+    "target": "CRS-SAT-202",
+    "details": "Standard operation USER_LOGIN executed by Debabrata Das from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.60"
+  },
+  {
+    "id": "log-1045",
+    "timestamp": "2026-09-19 14:45:45",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "Ananya Mukherjee",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.67"
+  },
+  {
+    "id": "log-1046",
+    "timestamp": "2026-09-19 15:58:14",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "COURSE_PUBLISHED",
+    "target": "CRS-AVI-203",
+    "details": "Standard operation COURSE_PUBLISHED executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.74"
+  },
+  {
+    "id": "log-1047",
+    "timestamp": "2026-09-19 16:11:43",
+    "actorName": "Sunita Devi",
+    "actorRole": "TRAINEE",
+    "action": "CERTIFICATE_MINTED",
+    "target": "Sunita Devi",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Sunita Devi from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.81"
+  },
+  {
+    "id": "log-1048",
+    "timestamp": "2026-09-18 17:24:12",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_APPROVAL",
+    "target": "CRS-DQC-105",
+    "details": "Standard operation USER_APPROVAL executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.88"
+  },
+  {
+    "id": "log-1049",
+    "timestamp": "2026-09-18 18:37:41",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "EXAM_SUBMISSION",
+    "target": "Priya Nair",
+    "details": "Standard operation EXAM_SUBMISSION executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.95"
+  },
+  {
+    "id": "log-1050",
+    "timestamp": "2026-09-18 09:50:10",
+    "actorName": "Suresh Pillai",
+    "actorRole": "TRAINEE",
+    "action": "FACULTY_INVITED",
+    "target": "CRS-HPC-303",
+    "details": "Standard operation FACULTY_INVITED executed by Suresh Pillai from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.102"
+  },
+  {
+    "id": "log-1051",
+    "timestamp": "2026-09-18 10:03:39",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "FACULTY_ACCEPTED",
+    "target": "Pooja Sharma",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.109"
+  },
+  {
+    "id": "log-1052",
+    "timestamp": "2026-09-17 11:16:08",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "CRS-MAR-205",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.116"
+  },
+  {
+    "id": "log-1053",
+    "timestamp": "2026-09-17 12:29:37",
+    "actorName": "Kiran Deka",
+    "actorRole": "TRAINEE",
+    "action": "PROFILE_UPDATED",
+    "target": "Kiran Deka",
+    "details": "Standard operation PROFILE_UPDATED executed by Kiran Deka from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.123"
+  },
+  {
+    "id": "log-1054",
+    "timestamp": "2026-09-17 13:42:06",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "PASSWORD_CHANGED",
+    "target": "CRS-URB-107",
+    "details": "Standard operation PASSWORD_CHANGED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.130"
+  },
+  {
+    "id": "log-1055",
+    "timestamp": "2026-09-17 14:55:35",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "USER_LOGIN",
+    "target": "Nandini Reddy",
+    "details": "Standard operation USER_LOGIN executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.137"
+  },
+  {
+    "id": "log-1056",
+    "timestamp": "2026-09-16 15:08:04",
+    "actorName": "Harish Chandra Pant",
+    "actorRole": "TRAINEE",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "CRS-DRT-208",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Harish Chandra Pant from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.144"
+  },
+  {
+    "id": "log-1057",
+    "timestamp": "2026-09-16 16:21:33",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "COURSE_PUBLISHED",
+    "target": "Snigdha Roy",
+    "details": "Standard operation COURSE_PUBLISHED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.151"
+  },
+  {
+    "id": "log-1058",
+    "timestamp": "2026-09-16 17:34:02",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "CERTIFICATE_MINTED",
+    "target": "CRS-SPW-304",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.158"
+  },
+  {
+    "id": "log-1059",
+    "timestamp": "2026-09-16 18:47:31",
+    "actorName": "Manju Swaminathan",
+    "actorRole": "TRAINEE",
+    "action": "USER_APPROVAL",
+    "target": "Manju Swaminathan",
+    "details": "Standard operation USER_APPROVAL executed by Manju Swaminathan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.165"
+  },
+  {
+    "id": "log-1060",
+    "timestamp": "2026-09-15 09:00:00",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "EXAM_SUBMISSION",
+    "target": "CRS-DWR-101",
+    "details": "Standard operation EXAM_SUBMISSION executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.172"
+  },
+  {
+    "id": "log-1061",
+    "timestamp": "2026-09-15 10:13:29",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "FACULTY_INVITED",
+    "target": "Sourav Ganguly",
+    "details": "Standard operation FACULTY_INVITED executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.179"
+  },
+  {
+    "id": "log-1062",
+    "timestamp": "2026-09-15 11:26:58",
+    "actorName": "Arvind Joshi",
+    "actorRole": "TRAINEE",
+    "action": "FACULTY_ACCEPTED",
+    "target": "CRS-NWP-301",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Arvind Joshi from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.186"
+  },
+  {
+    "id": "log-1063",
+    "timestamp": "2026-09-15 12:39:27",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "Tanvi Deshmukh",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.193"
+  },
+  {
+    "id": "log-1064",
+    "timestamp": "2026-09-14 13:52:56",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "PROFILE_UPDATED",
+    "target": "CRS-SAT-202",
+    "details": "Standard operation PROFILE_UPDATED executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.200"
+  },
+  {
+    "id": "log-1065",
+    "timestamp": "2026-09-14 14:05:25",
+    "actorName": "Rinchen Norbu",
+    "actorRole": "TRAINEE",
+    "action": "PASSWORD_CHANGED",
+    "target": "Rinchen Norbu",
+    "details": "Standard operation PASSWORD_CHANGED executed by Rinchen Norbu from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.207"
+  },
+  {
+    "id": "log-1066",
+    "timestamp": "2026-09-14 15:18:54",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_LOGIN",
+    "target": "CRS-AVI-203",
+    "details": "Standard operation USER_LOGIN executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.214"
+  },
+  {
+    "id": "log-1067",
+    "timestamp": "2026-09-14 16:31:23",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "Hemant Bisht",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.221"
+  },
+  {
+    "id": "log-1068",
+    "timestamp": "2026-09-13 17:44:52",
+    "actorName": "Nilanjana Sen",
+    "actorRole": "TRAINEE",
+    "action": "COURSE_PUBLISHED",
+    "target": "CRS-DQC-105",
+    "details": "Standard operation COURSE_PUBLISHED executed by Nilanjana Sen from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.228"
+  },
+  {
+    "id": "log-1069",
+    "timestamp": "2026-09-13 18:57:21",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "CERTIFICATE_MINTED",
+    "target": "Gagandeep Singh",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.235"
+  },
+  {
+    "id": "log-1070",
+    "timestamp": "2026-09-13 09:10:50",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "USER_APPROVAL",
+    "target": "CRS-HPC-303",
+    "details": "Standard operation USER_APPROVAL executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.242"
+  },
+  {
+    "id": "log-1071",
+    "timestamp": "2026-09-13 10:23:19",
+    "actorName": "Mahesh Bhatt",
+    "actorRole": "TRAINEE",
+    "action": "EXAM_SUBMISSION",
+    "target": "Mahesh Bhatt",
+    "details": "Standard operation EXAM_SUBMISSION executed by Mahesh Bhatt from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.249"
+  },
+  {
+    "id": "log-1072",
+    "timestamp": "2026-09-12 11:36:48",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "FACULTY_INVITED",
+    "target": "CRS-MAR-205",
+    "details": "Standard operation FACULTY_INVITED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.6"
+  },
+  {
+    "id": "log-1073",
+    "timestamp": "2026-09-12 12:49:17",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "FACULTY_ACCEPTED",
+    "target": "Dinesh Chandra",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.13"
+  },
+  {
+    "id": "log-1074",
+    "timestamp": "2026-09-12 13:02:46",
+    "actorName": "Pallavi Gawande",
+    "actorRole": "TRAINEE",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "CRS-URB-107",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Pallavi Gawande from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.20"
+  },
+  {
+    "id": "log-1075",
+    "timestamp": "2026-09-12 14:15:15",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "PROFILE_UPDATED",
+    "target": "Rohit Verma",
+    "details": "Standard operation PROFILE_UPDATED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.27"
+  },
+  {
+    "id": "log-1076",
+    "timestamp": "2026-09-11 15:28:44",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "PASSWORD_CHANGED",
+    "target": "CRS-DRT-208",
+    "details": "Standard operation PASSWORD_CHANGED executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.34"
+  },
+  {
+    "id": "log-1077",
+    "timestamp": "2026-09-11 16:41:13",
+    "actorName": "Prakash Soren",
+    "actorRole": "TRAINEE",
+    "action": "USER_LOGIN",
+    "target": "Prakash Soren",
+    "details": "Standard operation USER_LOGIN executed by Prakash Soren from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.41"
+  },
+  {
+    "id": "log-1078",
+    "timestamp": "2026-09-11 17:54:42",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "CRS-SPW-304",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.48"
+  },
+  {
+    "id": "log-1079",
+    "timestamp": "2026-09-11 18:07:11",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "COURSE_PUBLISHED",
+    "target": "Swati Chawla",
+    "details": "Standard operation COURSE_PUBLISHED executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.55"
+  },
+  {
+    "id": "log-1080",
+    "timestamp": "2026-09-10 09:20:40",
+    "actorName": "Dr. Rajesh Sharma",
+    "actorRole": "TRAINEE",
+    "action": "CERTIFICATE_MINTED",
+    "target": "CRS-DWR-101",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. Rajesh Sharma from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.62"
+  },
+  {
+    "id": "log-1081",
+    "timestamp": "2026-09-10 10:33:09",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_APPROVAL",
+    "target": "Smt. Priya Sundaram",
+    "details": "Standard operation USER_APPROVAL executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.69"
+  },
+  {
+    "id": "log-1082",
+    "timestamp": "2026-09-10 11:46:38",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "EXAM_SUBMISSION",
+    "target": "CRS-NWP-301",
+    "details": "Standard operation EXAM_SUBMISSION executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.76"
+  },
+  {
+    "id": "log-1083",
+    "timestamp": "2026-09-10 12:59:07",
+    "actorName": "Kavita Menon",
+    "actorRole": "TRAINEE",
+    "action": "FACULTY_INVITED",
+    "target": "Kavita Menon",
+    "details": "Standard operation FACULTY_INVITED executed by Kavita Menon from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.83"
+  },
+  {
+    "id": "log-1084",
+    "timestamp": "2026-09-09 13:12:36",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "FACULTY_ACCEPTED",
+    "target": "CRS-SAT-202",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.90"
+  },
+  {
+    "id": "log-1085",
+    "timestamp": "2026-09-09 14:25:05",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "Ananya Mukherjee",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.97"
+  },
+  {
+    "id": "log-1086",
+    "timestamp": "2026-09-09 15:38:34",
+    "actorName": "Ramesh Kumar Yadav",
+    "actorRole": "TRAINEE",
+    "action": "PROFILE_UPDATED",
+    "target": "CRS-AVI-203",
+    "details": "Standard operation PROFILE_UPDATED executed by Ramesh Kumar Yadav from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.104"
+  },
+  {
+    "id": "log-1087",
+    "timestamp": "2026-09-09 16:51:03",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "PASSWORD_CHANGED",
+    "target": "Sunita Devi",
+    "details": "Standard operation PASSWORD_CHANGED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.111"
+  },
+  {
+    "id": "log-1088",
+    "timestamp": "2026-09-08 17:04:32",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "USER_LOGIN",
+    "target": "CRS-DQC-105",
+    "details": "Standard operation USER_LOGIN executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.118"
+  },
+  {
+    "id": "log-1089",
+    "timestamp": "2026-09-08 18:17:01",
+    "actorName": "Priya Nair",
+    "actorRole": "TRAINEE",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "Priya Nair",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Priya Nair from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.125"
+  },
+  {
+    "id": "log-1090",
+    "timestamp": "2026-09-08 09:30:30",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "COURSE_PUBLISHED",
+    "target": "CRS-HPC-303",
+    "details": "Standard operation COURSE_PUBLISHED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.132"
+  },
+  {
+    "id": "log-1091",
+    "timestamp": "2026-09-08 10:43:59",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "CERTIFICATE_MINTED",
+    "target": "Pooja Sharma",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.139"
+  },
+  {
+    "id": "log-1092",
+    "timestamp": "2026-09-07 11:56:28",
+    "actorName": "Mohan Das",
+    "actorRole": "TRAINEE",
+    "action": "USER_APPROVAL",
+    "target": "CRS-MAR-205",
+    "details": "Standard operation USER_APPROVAL executed by Mohan Das from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.146"
+  },
+  {
+    "id": "log-1093",
+    "timestamp": "2026-09-07 12:09:57",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "EXAM_SUBMISSION",
+    "target": "Kiran Deka",
+    "details": "Standard operation EXAM_SUBMISSION executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.153"
+  },
+  {
+    "id": "log-1094",
+    "timestamp": "2026-09-07 13:22:26",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "FACULTY_INVITED",
+    "target": "CRS-URB-107",
+    "details": "Standard operation FACULTY_INVITED executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.160"
+  },
+  {
+    "id": "log-1095",
+    "timestamp": "2026-09-07 14:35:55",
+    "actorName": "Nandini Reddy",
+    "actorRole": "TRAINEE",
+    "action": "FACULTY_ACCEPTED",
+    "target": "Nandini Reddy",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Nandini Reddy from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.167"
+  },
+  {
+    "id": "log-1096",
+    "timestamp": "2026-09-06 15:48:24",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "CRS-DRT-208",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.174"
+  },
+  {
+    "id": "log-1097",
+    "timestamp": "2026-09-06 16:01:53",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "PROFILE_UPDATED",
+    "target": "Snigdha Roy",
+    "details": "Standard operation PROFILE_UPDATED executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.181"
+  },
+  {
+    "id": "log-1098",
+    "timestamp": "2026-09-06 17:14:22",
+    "actorName": "Pradeep Jena",
+    "actorRole": "TRAINEE",
+    "action": "PASSWORD_CHANGED",
+    "target": "CRS-SPW-304",
+    "details": "Standard operation PASSWORD_CHANGED executed by Pradeep Jena from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.188"
+  },
+  {
+    "id": "log-1099",
+    "timestamp": "2026-09-06 18:27:51",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_LOGIN",
+    "target": "Manju Swaminathan",
+    "details": "Standard operation USER_LOGIN executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.195"
+  },
+  {
+    "id": "log-1100",
+    "timestamp": "2026-09-05 09:40:20",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "CRS-DWR-101",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.202"
+  },
+  {
+    "id": "log-1101",
+    "timestamp": "2026-09-05 10:53:49",
+    "actorName": "Sourav Ganguly",
+    "actorRole": "TRAINEE",
+    "action": "COURSE_PUBLISHED",
+    "target": "Sourav Ganguly",
+    "details": "Standard operation COURSE_PUBLISHED executed by Sourav Ganguly from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.209"
+  },
+  {
+    "id": "log-1102",
+    "timestamp": "2026-09-05 11:06:18",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "CERTIFICATE_MINTED",
+    "target": "CRS-NWP-301",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.216"
+  },
+  {
+    "id": "log-1103",
+    "timestamp": "2026-09-05 12:19:47",
+    "actorName": "Dr. Vikram Chauhan",
+    "actorRole": "TRAINER",
+    "action": "USER_APPROVAL",
+    "target": "Tanvi Deshmukh",
+    "details": "Standard operation USER_APPROVAL executed by Dr. Vikram Chauhan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.223"
+  },
+  {
+    "id": "log-1104",
+    "timestamp": "2026-09-04 13:32:16",
+    "actorName": "Sandeep Patil",
+    "actorRole": "TRAINEE",
+    "action": "EXAM_SUBMISSION",
+    "target": "CRS-SAT-202",
+    "details": "Standard operation EXAM_SUBMISSION executed by Sandeep Patil from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.230"
+  },
+  {
+    "id": "log-1105",
+    "timestamp": "2026-09-04 14:45:45",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "FACULTY_INVITED",
+    "target": "Rinchen Norbu",
+    "details": "Standard operation FACULTY_INVITED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.237"
+  },
+  {
+    "id": "log-1106",
+    "timestamp": "2026-09-04 15:58:14",
+    "actorName": "Dr. Faisal Ahmed",
+    "actorRole": "TRAINER",
+    "action": "FACULTY_ACCEPTED",
+    "target": "CRS-AVI-203",
+    "details": "Standard operation FACULTY_ACCEPTED executed by Dr. Faisal Ahmed from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.244"
+  },
+  {
+    "id": "log-1107",
+    "timestamp": "2026-09-04 16:11:43",
+    "actorName": "Hemant Bisht",
+    "actorRole": "TRAINEE",
+    "action": "OFFLINE_SYNC_VERIFIED",
+    "target": "Hemant Bisht",
+    "details": "Standard operation OFFLINE_SYNC_VERIFIED executed by Hemant Bisht from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.251"
+  },
+  {
+    "id": "log-1108",
+    "timestamp": "2026-09-03 17:24:12",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "PROFILE_UPDATED",
+    "target": "CRS-DQC-105",
+    "details": "Standard operation PROFILE_UPDATED executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.8"
+  },
+  {
+    "id": "log-1109",
+    "timestamp": "2026-09-03 18:37:41",
+    "actorName": "Dr. V. R. Radhakrishnan",
+    "actorRole": "TRAINER",
+    "action": "PASSWORD_CHANGED",
+    "target": "Gagandeep Singh",
+    "details": "Standard operation PASSWORD_CHANGED executed by Dr. V. R. Radhakrishnan from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.2.15"
+  },
+  {
+    "id": "log-1110",
+    "timestamp": "2026-09-03 09:50:10",
+    "actorName": "Vandana Tripathi",
+    "actorRole": "TRAINEE",
+    "action": "USER_LOGIN",
+    "target": "CRS-HPC-303",
+    "details": "Standard operation USER_LOGIN executed by Vandana Tripathi from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.3.22"
+  },
+  {
+    "id": "log-1111",
+    "timestamp": "2026-09-03 10:03:39",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "ROLE_ASSIGNMENT",
+    "target": "Mahesh Bhatt",
+    "details": "Standard operation ROLE_ASSIGNMENT executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.4.29"
+  },
+  {
+    "id": "log-1112",
+    "timestamp": "2026-09-02 11:16:08",
+    "actorName": "Dr. Meenakshi Iyer",
+    "actorRole": "TRAINER",
+    "action": "COURSE_PUBLISHED",
+    "target": "CRS-MAR-205",
+    "details": "Standard operation COURSE_PUBLISHED executed by Dr. Meenakshi Iyer from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.5.36"
+  },
+  {
+    "id": "log-1113",
+    "timestamp": "2026-09-02 12:29:37",
+    "actorName": "Dinesh Chandra",
+    "actorRole": "TRAINEE",
+    "action": "CERTIFICATE_MINTED",
+    "target": "Dinesh Chandra",
+    "details": "Standard operation CERTIFICATE_MINTED executed by Dinesh Chandra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.6.43"
+  },
+  {
+    "id": "log-1114",
+    "timestamp": "2026-09-02 13:42:06",
+    "actorName": "Dr. M. Mohapatra",
+    "actorRole": "ADMIN",
+    "action": "USER_APPROVAL",
+    "target": "CRS-URB-107",
+    "details": "Standard operation USER_APPROVAL executed by Dr. M. Mohapatra from regional workstation. Verification hash validated.",
+    "ipAddress": "10.42.1.50"
+  }
+]

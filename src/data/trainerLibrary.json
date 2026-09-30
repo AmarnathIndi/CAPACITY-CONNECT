@@ -1,0 +1,178 @@
+[
+  {
+    "id": "lib-01",
+    "title": "S-Band Doppler Weather Radar Calibration Manual (Rev 4)",
+    "description": "Comprehensive hardware calibration guide, receiver sensitivity check, and clutter map generation procedure.",
+    "type": "pdf",
+    "fileSize": "14.2 MB",
+    "uploadedBy": "Dr. Sunita Kulkarni",
+    "uploadedDate": "2026-08-14",
+    "downloads": 142,
+    "category": "Radar Engineering"
+  },
+  {
+    "id": "lib-02",
+    "title": "Dvorak Technique Satellite Cloud Pattern Slides Deck",
+    "description": "Curated high-resolution satellite imagery slides of past super cyclones (Amphan, Fani, Biparjoy) with step-by-step T-number calculations.",
+    "type": "slides",
+    "fileSize": "28.5 MB",
+    "uploadedBy": "Dr. V. R. Radhakrishnan",
+    "uploadedDate": "2026-07-20",
+    "downloads": 215,
+    "category": "Cyclone Forecasting"
+  },
+  {
+    "id": "lib-03",
+    "title": "Standard Operating Procedure: Surface AWS Sensor Overhaul",
+    "description": "Checklists for field engineers: desiccant replacement, calibration jar test for tipping buckets, and solar battery charging tests.",
+    "type": "notes",
+    "fileSize": "3.8 MB",
+    "uploadedBy": "Dr. Tapan Sengupta",
+    "uploadedDate": "2026-09-02",
+    "downloads": 89,
+    "category": "Instrumentation"
+  },
+  {
+    "id": "lib-04",
+    "title": "Recorded Lecture: Dual-Polarization Radar Hydrometeor Classification",
+    "description": "Video lecture demonstrating differential reflectivity Zdr, correlation coefficient RhoHV, and specific differential phase Kdp in live thunderstorm cases.",
+    "type": "video",
+    "fileSize": "180 MB",
+    "uploadedBy": "Dr. Sunita Kulkarni",
+    "uploadedDate": "2026-08-28",
+    "downloads": 178,
+    "category": "Nowcasting"
+  },
+  {
+    "id": "lib-05",
+    "title": "NCUM Global Numerical Model Data Assimilation Guide",
+    "description": "Operational script templates for running 3D-Var and 4D-Var data assimilation pipelines with satellite radiances and radiosondes.",
+    "type": "pdf",
+    "fileSize": "16.4 MB",
+    "uploadedBy": "Dr. Arun Kumar Singh",
+    "uploadedDate": "2026-06-15",
+    "downloads": 165,
+    "category": "NWP Modeling"
+  },
+  {
+    "id": "lib-06",
+    "title": "INSAT-3DR Atmospheric Sounder Retrieval Presentation",
+    "description": "Slide deck explaining temperature and humidity soundings, geopotential thickness retrieval, and validation against radiosonde profiles.",
+    "type": "slides",
+    "fileSize": "22.1 MB",
+    "uploadedBy": "Dr. Meenakshi Iyer",
+    "uploadedDate": "2026-07-11",
+    "downloads": 198,
+    "category": "Satellite Data"
+  },
+  {
+    "id": "lib-07",
+    "title": "Climate Trends in Indian Monsoon Gridded Datasets (1901-2025)",
+    "description": "Python notebook examples analyzing trends in heavy precipitation days and heatwave frequency using IMD high-resolution data.",
+    "type": "notes",
+    "fileSize": "5.2 MB",
+    "uploadedBy": "Dr. Rajesh Patel",
+    "uploadedDate": "2026-08-05",
+    "downloads": 230,
+    "category": "Climate Analysis"
+  },
+  {
+    "id": "lib-08",
+    "title": "Western Himalayas Snowpack Monitoring & Avalanche Threat Assessment",
+    "description": "Technical guide for high-altitude weather stations, ultrasonic snow depth sensors, and mountain weather bulletins.",
+    "type": "pdf",
+    "fileSize": "11.7 MB",
+    "uploadedBy": "Dr. Deepa Joshi",
+    "uploadedDate": "2026-09-12",
+    "downloads": 94,
+    "category": "Mountain Met"
+  },
+  {
+    "id": "lib-09",
+    "title": "Slurm Workload Manager Setup on Pratyush Supercomputer",
+    "description": "System administrator notes for multi-node MPI job execution, node health checks, and parallel disk I/O optimization.",
+    "type": "notes",
+    "fileSize": "4.1 MB",
+    "uploadedBy": "Dr. Vikram Chauhan",
+    "uploadedDate": "2026-05-30",
+    "downloads": 112,
+    "category": "HPC Engineering"
+  },
+  {
+    "id": "lib-10",
+    "title": "ICAO Aerodrome Meteorological Briefing Standards Handbook",
+    "description": "Compilation of ICAO standards, SIGMET/AIRMET message formatting, and runway visual range (RVR) transmission protocols.",
+    "type": "pdf",
+    "fileSize": "8.9 MB",
+    "uploadedBy": "Dr. Karthik Subramanian",
+    "uploadedDate": "2026-07-28",
+    "downloads": 154,
+    "category": "Aviation Services"
+  },
+  {
+    "id": "lib-11",
+    "title": "Drought Surveillance with Standardized Precipitation Index (SPI)",
+    "description": "Slide presentation with calculation formulas, running Python routines, and district-level vulnerability mapping.",
+    "type": "slides",
+    "fileSize": "18.3 MB",
+    "uploadedBy": "Dr. Rituparna Bora",
+    "uploadedDate": "2026-08-22",
+    "downloads": 121,
+    "category": "Agrometeorology"
+  },
+  {
+    "id": "lib-12",
+    "title": "Atmospheric Chemistry & Air Quality Modeling (SAFAR) Workshop",
+    "description": "Video recording explaining chemical transport models, aerosol optical depth assimilation, and urban pollution forecasts.",
+    "type": "video",
+    "fileSize": "210 MB",
+    "uploadedBy": "Dr. Faisal Ahmed",
+    "uploadedDate": "2026-08-18",
+    "downloads": 167,
+    "category": "Air Quality"
+  },
+  {
+    "id": "lib-13",
+    "title": "Urban Hydrometeorology & Mumbai Flood Warning Sensor Network",
+    "description": "Case study documentation of the 2024 Mumbai monsoon storm surge and urban micro-radar deployments.",
+    "type": "pdf",
+    "fileSize": "19.5 MB",
+    "uploadedBy": "Dr. Bhaskar Rao",
+    "uploadedDate": "2026-09-08",
+    "downloads": 188,
+    "category": "Urban Hydrology"
+  },
+  {
+    "id": "lib-14",
+    "title": "ISO 17025 Laboratory Metrology: Pressure & Temperature Calibration",
+    "description": "Laboratory quality manual, calibration uncertainty calculations, and reference barometer maintenance logs.",
+    "type": "pdf",
+    "fileSize": "7.6 MB",
+    "uploadedBy": "Dr. Deepa Joshi",
+    "uploadedDate": "2026-06-25",
+    "downloads": 83,
+    "category": "Metrology"
+  },
+  {
+    "id": "lib-15",
+    "title": "Space Weather Early Warning & Solar Magnetic Storms Lecture",
+    "description": "Video lecture explaining CME propagation, coronal hole streams, and ionospheric scintillation effects on GNSS systems.",
+    "type": "video",
+    "fileSize": "195 MB",
+    "uploadedBy": "Dr. Meenakshi Iyer",
+    "uploadedDate": "2026-09-14",
+    "downloads": 145,
+    "category": "Space Weather"
+  },
+  {
+    "id": "lib-16",
+    "title": "Disaster Risk Governance & Impact-Based Early Warning Guidelines",
+    "description": "Presentation deck on integrating weather forecasts with NDMA Common Alerting Protocol (CAP) and emergency responders.",
+    "type": "slides",
+    "fileSize": "25.0 MB",
+    "uploadedBy": "Dr. V. R. Radhakrishnan",
+    "uploadedDate": "2026-08-30",
+    "downloads": 276,
+    "category": "Disaster Response"
+  }
+]

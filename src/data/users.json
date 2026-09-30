@@ -1,0 +1,2958 @@
+[
+  {
+    "id": "usr-trainer-1",
+    "name": "Dr. Sunita Kulkarni",
+    "email": "trainer@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Scientist 'E' (Senior Radar Specialist)",
+    "phone": "+91 98100 55443",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Dual Polarization Radar Operations",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Lightning & Thunderstorm Nowcasting",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Atmospheric Radar Physics (IIT Kharagpur)",
+      "WMO Fellow"
+    ],
+    "experienceYears": 16,
+    "points": 4100,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.92,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-2",
+    "name": "Dr. V. R. Radhakrishnan",
+    "email": "radhakrishnan@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Scientist 'F' (Cyclone Warning Division)",
+    "phone": "+91 94440 22331",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Tropical Cyclone Tracking",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Marine Wave & Ocean Current Forecasting",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Tropical Cyclones (Madras University)",
+      "M.Tech Ocean Engineering"
+    ],
+    "experienceYears": 20,
+    "points": 4500,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.96,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-3",
+    "name": "Dr. Tapan Sengupta",
+    "email": "tapan.sengupta@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Guwahati NEC",
+    "designation": "Scientist 'D' (Agrometeorology)",
+    "phone": "+91 94350 44556",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "AWS Station Calibration",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Agro-Climatic Zoning & Pest Surveillance",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Agroclimatology (AAU Jorhat)",
+      "M.Sc. Agricultural Physics"
+    ],
+    "experienceYears": 13,
+    "points": 3800,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.85,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-4",
+    "name": "Dr. Arun Kumar Singh",
+    "email": "arun.singh@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Scientist 'E' (NWP Modeling Lead)",
+    "phone": "+91 98112 77889",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Numerical Modeling (IIT Delhi)",
+      "M.Tech Atmospheric Science"
+    ],
+    "experienceYears": 15,
+    "points": 4000,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.88,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-5",
+    "name": "Dr. Meenakshi Iyer",
+    "email": "meenakshi.iyer@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Scientist 'E' (Satellite Meteorology)",
+    "phone": "+91 94441 55667",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Satellite Remote Sensing & INSAT",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Space Weather & Solar Magnetic Activity",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Atmospheric Sounding & Tephigram Analysis",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Space & Atmospheric Physics (ISRO-SAC)",
+      "M.Sc. Physics"
+    ],
+    "experienceYears": 14,
+    "points": 3900,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.91,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-6",
+    "name": "Dr. Rajesh Patel",
+    "email": "rajesh.patel@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Mumbai RMC",
+    "designation": "Scientist 'D' (Climate & Monsoon Division)",
+    "phone": "+91 98201 33445",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Climate Change Trend & Gridded NetCDF Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Monsoon Climatology (Pune University)",
+      "M.Sc. Meteorology"
+    ],
+    "experienceYears": 12,
+    "points": 3700,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.82,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-7",
+    "name": "Dr. Deepa Joshi",
+    "email": "deepa.joshi@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Nagpur RMC",
+    "designation": "Scientist 'D' (Radar & Mountain Weather)",
+    "phone": "+91 94221 66778",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Western Disturbances & Mountain Meteorology",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Doppler Wind Profiler Diagnostics",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Radar Meteorology (VNIT Nagpur)",
+      "M.Sc. Atmospheric Science"
+    ],
+    "experienceYears": 11,
+    "points": 3600,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.86,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-8",
+    "name": "Dr. Vikram Chauhan",
+    "email": "vikram.chauhan@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+    "phone": "+91 98108 99001",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Telemetry & VSAT Communication Networks",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Supercomputing (IIT Roorkee)",
+      "B.Tech Computer Science"
+    ],
+    "experienceYears": 17,
+    "points": 4200,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.89,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-9",
+    "name": "Dr. Karthik Subramanian",
+    "email": "karthik.subramanian@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Scientist 'D' (Aviation Meteorological Office)",
+    "phone": "+91 94452 44332",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Aviation METAR/TAF Coding",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Lightning & Thunderstorm Nowcasting",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Applied Meteorology (CUSAT)",
+      "ICAO Aviation Met Specialist"
+    ],
+    "experienceYears": 10,
+    "points": 3500,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.84,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-10",
+    "name": "Dr. Rituparna Bora",
+    "email": "rituparna.bora@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Guwahati NEC",
+    "designation": "Scientist 'D' (Hydrology & Drought)",
+    "phone": "+91 94351 88776",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Drought Monitoring & SPI Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Hydrological Modeling (IIT Guwahati)",
+      "M.Sc. Environmental Science"
+    ],
+    "experienceYears": 12,
+    "points": 3700,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.87,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-11",
+    "name": "Dr. Faisal Ahmed",
+    "email": "faisal.ahmed@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+    "phone": "+91 98301 22334",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Air Quality & SAFAR Modeling",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Atmospheric Chemistry (Jadavpur University)",
+      "M.Sc. Chemistry"
+    ],
+    "experienceYears": 11,
+    "points": 3600,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.83,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-trainer-12",
+    "name": "Dr. Bhaskar Rao",
+    "email": "bhaskar.rao@imd.gov.in",
+    "role": "trainer",
+    "status": "active",
+    "office": "Mumbai RMC",
+    "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+    "phone": "+91 98203 77889",
+    "joinedDate": "2015-05-10",
+    "skills": [
+      {
+        "name": "Urban Hydrology & Dense Rain Gauge Networks",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Urban Meteorology (IIT Bombay)",
+      "M.Tech Water Resources"
+    ],
+    "experienceYears": 15,
+    "points": 4000,
+    "badges": [
+      "Master Trainer",
+      "Technical Ace",
+      "MoES Certified"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "rating": 4.9,
+    "availability": {
+      "Monday": [
+        "10:00 - 12:00",
+        "14:00 - 16:00"
+      ],
+      "Wednesday": [
+        "11:00 - 13:00",
+        "15:00 - 17:00"
+      ],
+      "Friday": [
+        "09:00 - 11:00"
+      ]
+    }
+  },
+  {
+    "id": "usr-admin-1",
+    "name": "Dr. M. Mohapatra",
+    "email": "admin@imd.gov.in",
+    "role": "admin",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Director General of Meteorology",
+    "phone": "+91 11 2461 1068",
+    "joinedDate": "2005-01-01",
+    "skills": [
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Tropical Cyclone Tracking",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Tropical Meteorology",
+      "Fellow INSA & WMO Executive"
+    ],
+    "experienceYears": 28,
+    "points": 5900,
+    "badges": [
+      "Director General",
+      "Grand Architect",
+      "Training Pioneer"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-admin-2",
+    "name": "Dr. S. C. Bhan",
+    "email": "sc.bhan@imd.gov.in",
+    "role": "admin",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Head - Training & HR Development",
+    "phone": "+91 11 2462 8990",
+    "joinedDate": "2005-01-01",
+    "skills": [
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Applied Climatology (CCS HAU)",
+      "National Training Director"
+    ],
+    "experienceYears": 22,
+    "points": 5600,
+    "badges": [
+      "Director General",
+      "Grand Architect",
+      "Training Pioneer"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-admin-3",
+    "name": "Dr. Lakshmi Narayanan",
+    "email": "lakshmi.narayanan@imd.gov.in",
+    "role": "admin",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Director of Regional Centres (South)",
+    "phone": "+91 44 2256 1234",
+    "joinedDate": "2005-01-01",
+    "skills": [
+      {
+        "name": "Space Weather & Solar Magnetic Activity",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Satellite Remote Sensing & INSAT",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Expert",
+        "verified": true
+      }
+    ],
+    "qualifications": [
+      "Ph.D. Ionospheric Physics (IIT Madras)",
+      "Senior Regional Director"
+    ],
+    "experienceYears": 24,
+    "points": 5700,
+    "badges": [
+      "Director General",
+      "Grand Architect",
+      "Training Pioneer"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-1",
+    "name": "Dr. Rajesh Sharma",
+    "email": "trainee@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Meteorologist 'A'",
+    "phone": "+91 921111 54444",
+    "joinedDate": "2022-01-15",
+    "skills": [
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Aviation METAR/TAF Coding",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Air Quality & SAFAR Modeling",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 2,
+    "points": 550,
+    "badges": [
+      "Radar Pioneer",
+      "Quiz Whiz"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-2",
+    "name": "Smt. Priya Sundaram",
+    "email": "priya.sundaram@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 932222 76666",
+    "joinedDate": "2023-02-15",
+    "skills": [
+      {
+        "name": "Tropical Cyclone Tracking",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Marine Wave & Ocean Current Forecasting",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 3,
+    "points": 597,
+    "badges": [
+      "Fast Learner",
+      "Northeast Sentinel"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-3",
+    "name": "Shri Biman Baruah",
+    "email": "biman.baruah@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Guwahati NEC",
+    "designation": "Observing Officer Gr-I",
+    "phone": "+91 943333 98888",
+    "joinedDate": "2024-03-15",
+    "skills": [
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Atmospheric Sounding & Tephigram Analysis",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Western Disturbances & Mountain Meteorology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 4,
+    "points": 644,
+    "badges": [
+      "Cyclone Watcher",
+      "Aviation Guardian"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-4",
+    "name": "Kavita Menon",
+    "email": "kavita.m@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Assistant Meteorologist",
+    "phone": "+91 954444 31110",
+    "joinedDate": "2022-04-15",
+    "skills": [
+      {
+        "name": "AWS Station Calibration",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Urban Hydrology & Dense Rain Gauge Networks",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 5,
+    "points": 691,
+    "badges": [
+      "Quiz Whiz",
+      "Supercomputer Ace"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-5",
+    "name": "Debabrata Das",
+    "email": "debabrata.d@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Guwahati NEC",
+    "designation": "Scientific Assistant (Telemetry)",
+    "phone": "+91 965555 53332",
+    "joinedDate": "2023-05-15",
+    "skills": [
+      {
+        "name": "Satellite Remote Sensing & INSAT",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Drought Monitoring & SPI Analysis",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 6,
+    "points": 738,
+    "badges": [
+      "Northeast Sentinel",
+      "Gold Medalist"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-6",
+    "name": "Ananya Mukherjee",
+    "email": "ananya.m@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Meteorologist 'A' (NWP Division)",
+    "phone": "+91 976666 75554",
+    "joinedDate": "2024-06-15",
+    "skills": [
+      {
+        "name": "Aviation METAR/TAF Coding",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Dual Polarization Radar Operations",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Lightning & Thunderstorm Nowcasting",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Sensor Traceability & Lab Metrology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 7,
+    "points": 785,
+    "badges": [
+      "Aviation Guardian",
+      "Field Ready"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-7",
+    "name": "Ramesh Kumar Yadav",
+    "email": "ramesh.yadav@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Nagpur RMC",
+    "designation": "Scientific Assistant (Instruments)",
+    "phone": "+91 987777 97776",
+    "joinedDate": "2022-07-15",
+    "skills": [
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Air Quality & SAFAR Modeling",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Space Weather & Solar Magnetic Activity",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 8,
+    "points": 832,
+    "badges": [
+      "Supercomputer Ace",
+      "Radar Pioneer"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-8",
+    "name": "Sunita Devi",
+    "email": "sunita.devi@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Assistant Meteorologist",
+    "phone": "+91 998888 29998",
+    "joinedDate": "2023-08-15",
+    "skills": [
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Marine Wave & Ocean Current Forecasting",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 2,
+    "points": 879,
+    "badges": [
+      "Gold Medalist",
+      "Fast Learner"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-9",
+    "name": "Anitha Krishnan",
+    "email": "anitha.k@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Meteorologist 'A'",
+    "phone": "+91 919999 52220",
+    "joinedDate": "2024-09-15",
+    "skills": [
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Atmospheric Sounding & Tephigram Analysis",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Western Disturbances & Mountain Meteorology",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Agro-Climatic Zoning & Pest Surveillance",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 3,
+    "points": 926,
+    "badges": [
+      "Field Ready",
+      "Cyclone Watcher"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-10",
+    "name": "Priya Nair",
+    "email": "priya.nair@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Mumbai RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 931110 74442",
+    "joinedDate": "2022-01-15",
+    "skills": [
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Urban Hydrology & Dense Rain Gauge Networks",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Doppler Wind Profiler Diagnostics",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 4,
+    "points": 973,
+    "badges": [
+      "Radar Pioneer",
+      "Quiz Whiz"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-11",
+    "name": "Suresh Pillai",
+    "email": "suresh.pillai@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Meteorologist 'B'",
+    "phone": "+91 942221 96664",
+    "joinedDate": "2023-02-15",
+    "skills": [
+      {
+        "name": "Dual Polarization Radar Operations",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Drought Monitoring & SPI Analysis",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Climate Change Trend & Gridded NetCDF Analysis",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 5,
+    "points": 1020,
+    "badges": [
+      "Fast Learner",
+      "Northeast Sentinel"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-12",
+    "name": "Pooja Sharma",
+    "email": "pooja.sharma@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Junior Scientific Assistant",
+    "phone": "+91 953332 28886",
+    "joinedDate": "2024-03-15",
+    "skills": [
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Lightning & Thunderstorm Nowcasting",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Sensor Traceability & Lab Metrology",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Telemetry & VSAT Communication Networks",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 6,
+    "points": 1067,
+    "badges": [
+      "Cyclone Watcher",
+      "Aviation Guardian"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-13",
+    "name": "Mohan Das",
+    "email": "mohan.das@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Observing Officer Gr-II",
+    "phone": "+91 964443 51108",
+    "joinedDate": "2022-04-15",
+    "skills": [
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Air Quality & SAFAR Modeling",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Space Weather & Solar Magnetic Activity",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 7,
+    "points": 1114,
+    "badges": [
+      "Quiz Whiz",
+      "Supercomputer Ace"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-14",
+    "name": "Kiran Deka",
+    "email": "kiran.deka@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Guwahati NEC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 975554 73330",
+    "joinedDate": "2023-05-15",
+    "skills": [
+      {
+        "name": "Atmospheric Sounding & Tephigram Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Marine Wave & Ocean Current Forecasting",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 8,
+    "points": 1161,
+    "badges": [
+      "Northeast Sentinel",
+      "Gold Medalist"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-15",
+    "name": "Gurpreet Kaur",
+    "email": "gurpreet.kaur@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Assistant Meteorologist (Aviation)",
+    "phone": "+91 986665 95552",
+    "joinedDate": "2024-06-15",
+    "skills": [
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Western Disturbances & Mountain Meteorology",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Agro-Climatic Zoning & Pest Surveillance",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Tropical Cyclone Tracking",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 2,
+    "points": 1208,
+    "badges": [
+      "Aviation Guardian",
+      "Field Ready"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-16",
+    "name": "Nandini Reddy",
+    "email": "nandini.reddy@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Meteorologist 'A'",
+    "phone": "+91 997776 27774",
+    "joinedDate": "2022-07-15",
+    "skills": [
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Urban Hydrology & Dense Rain Gauge Networks",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Doppler Wind Profiler Diagnostics",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 3,
+    "points": 1255,
+    "badges": [
+      "Supercomputer Ace",
+      "Radar Pioneer"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-17",
+    "name": "Harish Chandra Pant",
+    "email": "harish.pant@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Nagpur RMC",
+    "designation": "Observing Officer Gr-I",
+    "phone": "+91 918887 49996",
+    "joinedDate": "2023-08-15",
+    "skills": [
+      {
+        "name": "Lightning & Thunderstorm Nowcasting",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Drought Monitoring & SPI Analysis",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Climate Change Trend & Gridded NetCDF Analysis",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "AWS Station Calibration",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 4,
+    "points": 1302,
+    "badges": [
+      "Gold Medalist",
+      "Fast Learner"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-18",
+    "name": "Snigdha Roy",
+    "email": "snigdha.roy@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 929998 72218",
+    "joinedDate": "2024-09-15",
+    "skills": [
+      {
+        "name": "Air Quality & SAFAR Modeling",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Sensor Traceability & Lab Metrology",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Telemetry & VSAT Communication Networks",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Satellite Remote Sensing & INSAT",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 5,
+    "points": 1349,
+    "badges": [
+      "Field Ready",
+      "Cyclone Watcher"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-19",
+    "name": "Pradeep Jena",
+    "email": "pradeep.jena@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Meteorologist 'A'",
+    "phone": "+91 941109 94440",
+    "joinedDate": "2022-01-15",
+    "skills": [
+      {
+        "name": "Marine Wave & Ocean Current Forecasting",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Space Weather & Solar Magnetic Activity",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Aviation METAR/TAF Coding",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 6,
+    "points": 1396,
+    "badges": [
+      "Radar Pioneer",
+      "Quiz Whiz"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-20",
+    "name": "Manju Swaminathan",
+    "email": "manju.s@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Assistant Meteorologist",
+    "phone": "+91 952220 26662",
+    "joinedDate": "2023-02-15",
+    "skills": [
+      {
+        "name": "Western Disturbances & Mountain Meteorology",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 7,
+    "points": 1443,
+    "badges": [
+      "Fast Learner",
+      "Northeast Sentinel"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-21",
+    "name": "Alok Ranjan",
+    "email": "alok.ranjan@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Scientific Assistant",
+    "phone": "+91 963331 48884",
+    "joinedDate": "2024-03-15",
+    "skills": [
+      {
+        "name": "Urban Hydrology & Dense Rain Gauge Networks",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Agro-Climatic Zoning & Pest Surveillance",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Tropical Cyclone Tracking",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 8,
+    "points": 1490,
+    "badges": [
+      "Cyclone Watcher",
+      "Aviation Guardian"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-22",
+    "name": "Sourav Ganguly",
+    "email": "sourav.g@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Junior Scientific Assistant",
+    "phone": "+91 974442 71106",
+    "joinedDate": "2022-04-15",
+    "skills": [
+      {
+        "name": "Drought Monitoring & SPI Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Doppler Wind Profiler Diagnostics",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 2,
+    "points": 1537,
+    "badges": [
+      "Quiz Whiz",
+      "Supercomputer Ace"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-23",
+    "name": "Arvind Joshi",
+    "email": "arvind.joshi@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Mumbai RMC",
+    "designation": "Meteorologist 'A'",
+    "phone": "+91 985553 93328",
+    "joinedDate": "2023-05-15",
+    "skills": [
+      {
+        "name": "Sensor Traceability & Lab Metrology",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Climate Change Trend & Gridded NetCDF Analysis",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "AWS Station Calibration",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 3,
+    "points": 1584,
+    "badges": [
+      "Northeast Sentinel",
+      "Gold Medalist"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-24",
+    "name": "Tanvi Deshmukh",
+    "email": "tanvi.deshmukh@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Nagpur RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 996664 25550",
+    "joinedDate": "2024-06-15",
+    "skills": [
+      {
+        "name": "Space Weather & Solar Magnetic Activity",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Telemetry & VSAT Communication Networks",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Satellite Remote Sensing & INSAT",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Dual Polarization Radar Operations",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 4,
+    "points": 1631,
+    "badges": [
+      "Aviation Guardian",
+      "Field Ready"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-25",
+    "name": "Sandeep Patil",
+    "email": "sandeep.patil@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Mumbai RMC",
+    "designation": "Assistant Meteorologist",
+    "phone": "+91 917775 47772",
+    "joinedDate": "2022-07-15",
+    "skills": [
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Aviation METAR/TAF Coding",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 5,
+    "points": 1678,
+    "badges": [
+      "Supercomputer Ace",
+      "Radar Pioneer"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-26",
+    "name": "Rinchen Norbu",
+    "email": "rinchen.norbu@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Guwahati NEC",
+    "designation": "High Altitude Observer",
+    "phone": "+91 928886 69994",
+    "joinedDate": "2023-08-15",
+    "skills": [
+      {
+        "name": "Agro-Climatic Zoning & Pest Surveillance",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 6,
+    "points": 1725,
+    "badges": [
+      "Gold Medalist",
+      "Fast Learner"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-27",
+    "name": "Latha Venkatraman",
+    "email": "latha.v@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 939997 92216",
+    "joinedDate": "2024-09-15",
+    "skills": [
+      {
+        "name": "Doppler Wind Profiler Diagnostics",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Tropical Cyclone Tracking",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Atmospheric Sounding & Tephigram Analysis",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 7,
+    "points": 1772,
+    "badges": [
+      "Field Ready",
+      "Cyclone Watcher"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-28",
+    "name": "Hemant Bisht",
+    "email": "hemant.bisht@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Meteorologist 'B'",
+    "phone": "+91 951108 24438",
+    "joinedDate": "2022-01-15",
+    "skills": [
+      {
+        "name": "Climate Change Trend & Gridded NetCDF Analysis",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 8,
+    "points": 1819,
+    "badges": [
+      "Radar Pioneer",
+      "Quiz Whiz"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-29",
+    "name": "Nilanjana Sen",
+    "email": "nilanjana.sen@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 962219 46660",
+    "joinedDate": "2023-02-15",
+    "skills": [
+      {
+        "name": "Telemetry & VSAT Communication Networks",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "AWS Station Calibration",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 2,
+    "points": 1866,
+    "badges": [
+      "Fast Learner",
+      "Northeast Sentinel"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-30",
+    "name": "Gagandeep Singh",
+    "email": "gagandeep.s@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Radar Technical Officer",
+    "phone": "+91 973330 68882",
+    "joinedDate": "2024-03-15",
+    "skills": [
+      {
+        "name": "Weather Briefing & Decision Support Systems",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Satellite Remote Sensing & INSAT",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Dual Polarization Radar Operations",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Lightning & Thunderstorm Nowcasting",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 3,
+    "points": 1913,
+    "badges": [
+      "Cyclone Watcher",
+      "Aviation Guardian"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-31",
+    "name": "Vandana Tripathi",
+    "email": "vandana.t@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Nagpur RMC",
+    "designation": "Meteorologist 'A'",
+    "phone": "+91 984441 91104",
+    "joinedDate": "2022-04-15",
+    "skills": [
+      {
+        "name": "Doppler Radar Interpretation",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Aviation METAR/TAF Coding",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Air Quality & SAFAR Modeling",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 4,
+    "points": 1960,
+    "badges": [
+      "Quiz Whiz",
+      "Supercomputer Ace"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-32",
+    "name": "Mahesh Bhatt",
+    "email": "mahesh.bhatt@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Mumbai RMC",
+    "designation": "Observing Officer Gr-I",
+    "phone": "+91 995552 23326",
+    "joinedDate": "2023-05-15",
+    "skills": [
+      {
+        "name": "Tropical Cyclone Tracking",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Marine Wave & Ocean Current Forecasting",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 5,
+    "points": 2007,
+    "badges": [
+      "Northeast Sentinel",
+      "Gold Medalist"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-33",
+    "name": "Sushmita Das",
+    "email": "sushmita.das@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Guwahati NEC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 916663 45548",
+    "joinedDate": "2024-06-15",
+    "skills": [
+      {
+        "name": "Numerical Weather Prediction (NWP)",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Atmospheric Sounding & Tephigram Analysis",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Western Disturbances & Mountain Meteorology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 6,
+    "points": 554,
+    "badges": [
+      "Aviation Guardian",
+      "Field Ready"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-34",
+    "name": "Dinesh Chandra",
+    "email": "dinesh.chandra@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Observing Officer Gr-II",
+    "phone": "+91 927774 67770",
+    "joinedDate": "2022-07-15",
+    "skills": [
+      {
+        "name": "AWS Station Calibration",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Urban Hydrology & Dense Rain Gauge Networks",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 7,
+    "points": 601,
+    "badges": [
+      "Supercomputer Ace",
+      "Radar Pioneer"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-35",
+    "name": "Pallavi Gawande",
+    "email": "pallavi.g@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Nagpur RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 938885 89992",
+    "joinedDate": "2023-08-15",
+    "skills": [
+      {
+        "name": "Satellite Remote Sensing & INSAT",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Surface Observation Quality Control",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Drought Monitoring & SPI Analysis",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 8,
+    "points": 648,
+    "badges": [
+      "Gold Medalist",
+      "Fast Learner"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-36",
+    "name": "Rohit Verma",
+    "email": "rohit.verma@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "New Delhi HQ",
+    "designation": "Meteorologist 'A'",
+    "phone": "+91 949996 22214",
+    "joinedDate": "2024-09-15",
+    "skills": [
+      {
+        "name": "Aviation METAR/TAF Coding",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Dual Polarization Radar Operations",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Lightning & Thunderstorm Nowcasting",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Sensor Traceability & Lab Metrology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 2,
+    "points": 695,
+    "badges": [
+      "Field Ready",
+      "Cyclone Watcher"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-37",
+    "name": "Geeta Nair",
+    "email": "geeta.nair@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Chennai RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 961107 44436",
+    "joinedDate": "2022-01-15",
+    "skills": [
+      {
+        "name": "Agrometeorological Advisory",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Dvorak Satellite Intensity Analysis",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Air Quality & SAFAR Modeling",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Space Weather & Solar Magnetic Activity",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 3,
+    "points": 742,
+    "badges": [
+      "Radar Pioneer",
+      "Quiz Whiz"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-38",
+    "name": "Prakash Soren",
+    "email": "prakash.soren@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Kolkata RMC",
+    "designation": "Observing Officer Gr-I",
+    "phone": "+91 972218 66658",
+    "joinedDate": "2023-02-15",
+    "skills": [
+      {
+        "name": "Orographic Rainfall & Flash Flood Early Warning",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "High Performance Computing (Pratyush/Mihir)",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Marine Wave & Ocean Current Forecasting",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Multi-Hazard Disaster Early Warning (MHEWS)",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 4,
+    "points": 789,
+    "badges": [
+      "Fast Learner",
+      "Northeast Sentinel"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-39",
+    "name": "Jagdish Prasad",
+    "email": "jagdish.prasad@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Nagpur RMC",
+    "designation": "AWS Field Technician",
+    "phone": "+91 983329 88880",
+    "joinedDate": "2024-03-15",
+    "skills": [
+      {
+        "name": "Storm Surge Modeling",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Atmospheric Sounding & Tephigram Analysis",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Western Disturbances & Mountain Meteorology",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Agro-Climatic Zoning & Pest Surveillance",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 5,
+    "points": 836,
+    "badges": [
+      "Cyclone Watcher",
+      "Aviation Guardian"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-trainee-40",
+    "name": "Swati Chawla",
+    "email": "swati.chawla@imd.gov.in",
+    "role": "trainee",
+    "status": "active",
+    "office": "Mumbai RMC",
+    "designation": "Scientific Assistant",
+    "phone": "+91 994440 21102",
+    "joinedDate": "2022-04-15",
+    "skills": [
+      {
+        "name": "Python for Atmospheric Sciences",
+        "level": "Expert",
+        "verified": true
+      },
+      {
+        "name": "Extended Range Monsoon Forecasting",
+        "level": "Intermediate",
+        "verified": true
+      },
+      {
+        "name": "Urban Hydrology & Dense Rain Gauge Networks",
+        "level": "Beginner",
+        "verified": false
+      },
+      {
+        "name": "Doppler Wind Profiler Diagnostics",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "M.Sc. Atmospheric Science",
+      "B.Tech Electronics"
+    ],
+    "experienceYears": 6,
+    "points": 883,
+    "badges": [
+      "Quiz Whiz",
+      "Supercomputer Ace"
+    ],
+    "languagePreferences": [
+      "English",
+      "Hindi"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-pending-1",
+    "name": "Amit Kumar Verma",
+    "email": "amit.verma@imd.gov.in",
+    "role": "trainee",
+    "status": "pending",
+    "office": "New Delhi HQ",
+    "designation": "Junior Technical Assistant (Probationer)",
+    "phone": "+91 99118 77665",
+    "joinedDate": "2026-09-15",
+    "skills": [
+      {
+        "name": "General Meteorology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "B.Sc. Physics / Mathematics"
+    ],
+    "experienceYears": 1,
+    "points": 0,
+    "badges": [],
+    "languagePreferences": [
+      "Hindi",
+      "English"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-pending-2",
+    "name": "Bikash Kalita",
+    "email": "bikash.kalita@imd.gov.in",
+    "role": "trainee",
+    "status": "pending",
+    "office": "Guwahati NEC",
+    "designation": "Trainee Observer",
+    "phone": "+91 99118 77665",
+    "joinedDate": "2026-09-15",
+    "skills": [
+      {
+        "name": "General Meteorology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "B.Sc. Physics / Mathematics"
+    ],
+    "experienceYears": 1,
+    "points": 0,
+    "badges": [],
+    "languagePreferences": [
+      "Hindi",
+      "English"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-pending-3",
+    "name": "Preeti Deshpande",
+    "email": "preeti.d@imd.gov.in",
+    "role": "trainee",
+    "status": "pending",
+    "office": "Nagpur RMC",
+    "designation": "Graduate Engineering Apprentice",
+    "phone": "+91 99118 77665",
+    "joinedDate": "2026-09-15",
+    "skills": [
+      {
+        "name": "General Meteorology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "B.Sc. Physics / Mathematics"
+    ],
+    "experienceYears": 1,
+    "points": 0,
+    "badges": [],
+    "languagePreferences": [
+      "Hindi",
+      "English"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-pending-4",
+    "name": "Mohammad Zafar",
+    "email": "m.zafar@imd.gov.in",
+    "role": "trainee",
+    "status": "pending",
+    "office": "Kolkata RMC",
+    "designation": "Scientific Assistant (Probationer)",
+    "phone": "+91 99118 77665",
+    "joinedDate": "2026-09-15",
+    "skills": [
+      {
+        "name": "General Meteorology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "B.Sc. Physics / Mathematics"
+    ],
+    "experienceYears": 1,
+    "points": 0,
+    "badges": [],
+    "languagePreferences": [
+      "Hindi",
+      "English"
+    ],
+    "availability": {}
+  },
+  {
+    "id": "usr-pending-5",
+    "name": "Shalini Banerjee",
+    "email": "shalini.b@imd.gov.in",
+    "role": "trainee",
+    "status": "pending",
+    "office": "Mumbai RMC",
+    "designation": "Trainee Meteorologist",
+    "phone": "+91 99118 77665",
+    "joinedDate": "2026-09-15",
+    "skills": [
+      {
+        "name": "General Meteorology",
+        "level": "Beginner",
+        "verified": false
+      }
+    ],
+    "qualifications": [
+      "B.Sc. Physics / Mathematics"
+    ],
+    "experienceYears": 1,
+    "points": 0,
+    "badges": [],
+    "languagePreferences": [
+      "Hindi",
+      "English"
+    ],
+    "availability": {}
+  }
+]

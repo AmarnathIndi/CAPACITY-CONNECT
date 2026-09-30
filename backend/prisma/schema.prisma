@@ -1,0 +1,486 @@
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  extensions = [vector]
+}
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+enum UserRole {
+  TRAINEE
+  TRAINER
+  ADMIN
+}
+
+enum UserStatus {
+  PENDING
+  APPROVED
+  REJECTED
+  SUSPENDED
+}
+
+enum CourseLevel {
+  BEGINNER
+  INTERMEDIATE
+  ADVANCED
+}
+
+enum QuestionDifficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+enum QuestionStatus {
+  DRAFT
+  APPROVED
+  REJECTED
+}
+
+enum SessionStatus {
+  SCHEDULED
+  INVITED
+  ACCEPTED
+  DECLINED
+  COMPLETED
+  CANCELLED
+}
+
+enum CertificateStatus {
+  VALID
+  EXPIRED
+  REVOKED
+}
+
+model User {
+  id                  String       @id @default(uuid())
+  email               String       @unique
+  passwordHash        String
+  fullName            String
+  role                UserRole     @default(TRAINEE)
+  status              UserStatus   @default(PENDING)
+  office              String       @default("Delhi HQ")
+  region              String       @default("North")
+  twoFactorEnabled    Boolean      @default(false)
+  twoFactorSecret     String?
+  failedLoginAttempts Int          @default(0)
+  lockedUntil         DateTime?
+  rejectionReason     String?
+  createdAt           DateTime     @default(now())
+  updatedAt           DateTime     @updatedAt
+
+  profile             Profile?
+  skills              UserSkill[]
+  enrollments         Enrollment[]
+  testAttempts        TestAttempt[]
+  certificates        Certificate[]
+  pointsLedger        PointsLedger[]
+  userBadges          UserBadge[]
+  availabilities      TrainerAvailability[]
+  sentInvites         TrainingSessionRequest[] @relation("AdminInvites")
+  receivedInvites     TrainingSessionRequest[] @relation("TrainerInvites")
+  notifications       Notification[]
+  auditLogs           AuditLog[]
+  pathProgresses      UserLearningPathProgress[]
+  authoredCourses     Course[]     @relation("AuthoredCourses")
+
+  @@index([email])
+  @@index([status])
+  @@index([office])
+}
+
+model Profile {
+  id                String   @id @default(uuid())
+  userId            String   @unique
+  designation       String?
+  phone             String?
+  preferredLanguage String   @default("en")
+  qualifications    Json     @default("[]")
+  experience        Json     @default("[]")
+  interests         Json     @default("[]")
+  avatarUrl         String?
+  updatedAt         DateTime @updatedAt
+
+  user              User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Skill {
+  id          String      @id @default(uuid())
+  name        String      @unique
+  category    String
+  description String?
+  userSkills  UserSkill[]
+}
+
+model UserSkill {
+  id         String    @id @default(uuid())
+  userId     String
+  skillId    String
+  level      String    @default("Intermediate")
+  verified   Boolean   @default(false)
+  verifiedAt DateTime?
+
+  user       User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  skill      Skill     @relation(fields: [skillId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, skillId])
+}
+
+model Course {
+  id             String         @id
+  titleEn        String
+  titleHi        String
+  descriptionEn  String
+  descriptionHi  String
+  category       String
+  level          CourseLevel    @default(INTERMEDIATE)
+  durationHours  Int            @default(10)
+  thumbnail      String?
+  trainerId      String?
+  status         String         @default("PUBLISHED")
+  prerequisites  Json           @default("[]")
+  targetRoles    Json           @default("[]")
+  createdAt      DateTime       @default(now())
+  updatedAt      DateTime       @updatedAt
+
+  trainer        User?          @relation("AuthoredCourses", fields: [trainerId], references: [id])
+  modules        CourseModule[]
+  enrollments    Enrollment[]
+  ratings        CourseRating[]
+  tests          MCQTest[]
+  documentChunks DocumentChunk[]
+  liveSessions   LiveSession[]
+}
+
+model CourseModule {
+  id          String   @id
+  courseId    String
+  titleEn     String
+  titleHi     String
+  orderIndex  Int
+  materials   Json     @default("[]")
+
+  course      Course   @relation(fields: [courseId], references: [id], onDelete: Cascade)
+}
+
+model TrainerLibraryItem {
+  id          String   @id
+  titleEn     String
+  titleHi     String
+  category    String
+  format      String
+  fileSize    String
+  uploaderName String
+  downloads   Int      @default(0)
+  storageKey  String?
+  createdAt   DateTime @default(now())
+}
+
+model Enrollment {
+  id             String    @id @default(uuid())
+  userId         String
+  courseId       String
+  progress       Int       @default(0)
+  completed      Boolean   @default(false)
+  completedAt    DateTime?
+  enrolledAt     DateTime  @default(now())
+  lastAccessedAt DateTime  @default(now())
+
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  course         Course    @relation(fields: [courseId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, courseId])
+}
+
+model CourseRating {
+  id        String   @id @default(uuid())
+  courseId  String
+  userId    String
+  rating    Int
+  feedback  String?
+  createdAt DateTime @default(now())
+
+  course    Course   @relation(fields: [courseId], references: [id], onDelete: Cascade)
+}
+
+model MCQTest {
+  id              String         @id
+  courseId        String
+  titleEn         String
+  titleHi         String
+  durationMinutes Int            @default(20)
+  passingScore    Int            @default(70)
+  totalMarks      Int            @default(100)
+  deadline        DateTime?
+  isPublished     Boolean        @default(true)
+  createdAt       DateTime       @default(now())
+
+  course          Course         @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  questions       MCQQuestion[]
+  attempts        TestAttempt[]
+}
+
+model MCQQuestion {
+  id            String             @id
+  testId        String
+  questionEn    String
+  questionHi    String
+  difficulty    QuestionDifficulty @default(MEDIUM)
+  explanationEn String
+  explanationHi String
+  sourcePage    String?
+  status        QuestionStatus     @default(APPROVED)
+  createdAt     DateTime           @default(now())
+
+  test          MCQTest            @relation(fields: [testId], references: [id], onDelete: Cascade)
+  options       MCQOption[]
+}
+
+model MCQOption {
+  id         String      @id
+  questionId String
+  textEn     String
+  textHi     String
+  isCorrect  Boolean     @default(false)
+
+  question   MCQQuestion @relation(fields: [questionId], references: [id], onDelete: Cascade)
+}
+
+model AIMCQDraft {
+  id            String             @id @default(uuid())
+  courseId      String
+  testId        String?
+  questionEn    String
+  questionHi    String
+  optionsEn     Json
+  optionsHi     Json
+  correctIndex  Int
+  difficulty    QuestionDifficulty @default(MEDIUM)
+  explanationEn String
+  explanationHi String
+  sourcePage    String?
+  status        QuestionStatus     @default(DRAFT)
+  createdAt     DateTime           @default(now())
+  updatedAt     DateTime           @updatedAt
+}
+
+model TestAttempt {
+  id                   String        @id @default(uuid())
+  testId               String
+  userId               String
+  score                Int           @default(0)
+  totalMarks           Int           @default(100)
+  isPassed             Boolean       @default(false)
+  status               String        @default("SUBMITTED")
+  answersPayload       Json          @default("[]")
+  startedAt            DateTime      @default(now())
+  submittedAt          DateTime?
+  isOfflineSubmission  Boolean       @default(false)
+  clientSignature      String?
+
+  user                 User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  test                 MCQTest       @relation(fields: [testId], references: [id], onDelete: Cascade)
+  certificate          Certificate?
+}
+
+model Certificate {
+  id               String            @id
+  verificationHash String            @unique
+  userId           String
+  courseId         String
+  attemptId        String?           @unique
+  recipientName    String
+  courseTitle      String
+  issueDate        DateTime          @default(now())
+  expiryDate       DateTime
+  status           CertificateStatus @default(VALID)
+  pdfStorageKey    String?
+  createdAt        DateTime          @default(now())
+
+  user             User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  attempt          TestAttempt?      @relation(fields: [attemptId], references: [id])
+
+  @@index([verificationHash])
+}
+
+model DocumentChunk {
+  id             String                 @id @default(uuid())
+  courseId       String
+  sourceDocument String
+  pageNumber     Int?
+  startTimestamp Int?
+  endTimestamp   Int?
+  chunkContent   String
+  embedding      Unsupported("vector(1024)")?
+  createdAt      DateTime               @default(now())
+
+  course         Course                 @relation(fields: [courseId], references: [id], onDelete: Cascade)
+}
+
+model LearningPath {
+  id           String                   @id
+  role         UserRole
+  titleEn      String
+  titleHi      String
+  description  String
+  courses      LearningPathCourse[]
+  userProgress UserLearningPathProgress[]
+}
+
+model LearningPathCourse {
+  id             String       @id @default(uuid())
+  learningPathId String
+  courseId       String
+  stepOrder      Int
+  prerequisiteId String?
+
+  learningPath   LearningPath @relation(fields: [learningPathId], references: [id], onDelete: Cascade)
+}
+
+model UserLearningPathProgress {
+  id             String       @id @default(uuid())
+  userId         String
+  learningPathId String
+  currentStep    Int          @default(1)
+  completedSteps Json         @default("[]")
+  progressPct    Int          @default(0)
+  updatedAt      DateTime     @updatedAt
+
+  user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  learningPath   LearningPath @relation(fields: [learningPathId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, learningPathId])
+}
+
+model PointsLedger {
+  id          String   @id @default(uuid())
+  userId      String
+  points      Int
+  reason      String
+  referenceId String?
+  createdAt   DateTime @default(now())
+
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model Badge {
+  id          String      @id
+  titleEn     String
+  titleHi     String
+  description String
+  icon        String
+  criteria    String
+  userBadges  UserBadge[]
+}
+
+model UserBadge {
+  id        String   @id @default(uuid())
+  userId    String
+  badgeId   String
+  awardedAt DateTime @default(now())
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  badge     Badge    @relation(fields: [badgeId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, badgeId])
+}
+
+model TrainerAvailability {
+  id        String   @id @default(uuid())
+  userId    String
+  dayOfWeek Int
+  slot      String
+  isBlocked Boolean  @default(false)
+  updatedAt DateTime @updatedAt
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, dayOfWeek, slot])
+}
+
+model TrainingSessionRequest {
+  id           String        @id @default(uuid())
+  adminId      String
+  trainerId    String
+  topic        String
+  scheduledDate DateTime
+  language     String        @default("English")
+  region       String        @default("Delhi HQ")
+  matchScore   Int           @default(90)
+  status       SessionStatus @default(INVITED)
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+
+  admin        User          @relation("AdminInvites", fields: [adminId], references: [id])
+  trainer      User          @relation("TrainerInvites", fields: [trainerId], references: [id])
+}
+
+model LiveSession {
+  id             String   @id
+  courseId       String
+  title          String
+  trainerName    String
+  startTime      DateTime
+  endTime        DateTime
+  jitsiRoomId    String
+  status         String   @default("SCHEDULED")
+  attendanceList Json     @default("[]")
+  recordingKey   String?
+  transcriptKey  String?
+  createdAt      DateTime @default(now())
+
+  course         Course   @relation(fields: [courseId], references: [id], onDelete: Cascade)
+}
+
+model Notification {
+  id        String   @id @default(uuid())
+  userId    String
+  titleEn   String
+  titleHi   String
+  bodyEn    String
+  bodyHi    String
+  type      String
+  read      Boolean  @default(false)
+  linkUrl   String?
+  createdAt DateTime @default(now())
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, read])
+}
+
+model Announcement {
+  id          String   @id @default(uuid())
+  titleEn     String
+  titleHi     String
+  summaryEn   String
+  summaryHi   String
+  category    String
+  publishedAt DateTime @default(now())
+  isPinned    Boolean  @default(false)
+}
+
+model AuditLog {
+  id          String   @id @default(uuid())
+  userId      String?
+  userEmail   String?
+  ipAddress   String?
+  userAgent   String?
+  action      String
+  entityType  String
+  entityId    String?
+  beforeState Json?
+  afterState  Json?
+  timestamp   DateTime @default(now())
+
+  user        User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([action])
+  @@index([entityType])
+  @@index([timestamp])
+}

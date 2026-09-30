@@ -1,0 +1,2817 @@
+[
+  {
+    "id": "IMD-CERT-2024-1000",
+    "courseId": "crs-dwr-101",
+    "courseTitle": "Doppler Weather Radar (DWR) Principles & Severe Storm Nowcasting",
+    "courseCode": "CRS-DWR-101",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-1",
+    "userName": "Dr. Rajesh Sharma",
+    "userEmail": "trainee@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2025-01-15",
+    "expiryDate": "2028-01-14",
+    "score": 75,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032342d313030303a747261696e656540696d642e676f762e696e3a37353a323032352d30312d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-1137",
+    "courseId": "crs-cyc-201",
+    "courseTitle": "Tropical Cyclone Monitoring, Tracking & Dvorak Technique",
+    "courseCode": "CRS-CYC-201",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-2",
+    "userName": "Smt. Priya Sundaram",
+    "userEmail": "priya.sundaram@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-02-15",
+    "expiryDate": "2028-02-14",
+    "score": 88,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032342d313133373a70726979612e73756e646172616d40696d642e676f762e696e3a38383a323032352d30322d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-1274",
+    "courseId": "crs-nwp-301",
+    "courseTitle": "Numerical Weather Prediction (NWP) Modeling & Data Assimilation",
+    "courseCode": "CRS-NWP-301",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-3",
+    "userName": "Shri Biman Baruah",
+    "userEmail": "biman.baruah@imd.gov.in",
+    "userOffice": "Guwahati NEC",
+    "userDesignation": "Observing Officer Gr-I",
+    "issueDate": "2025-03-15",
+    "expiryDate": "2028-03-14",
+    "score": 77,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032342d313237343a62696d616e2e62617275616840696d642e676f762e696e3a37373a323032352d30332d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-1411",
+    "courseId": "crs-aws-102",
+    "courseTitle": "Automatic Weather Station (AWS & ARG) Network Maintenance & Calibration",
+    "courseCode": "CRS-AWS-102",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-4",
+    "userName": "Kavita Menon",
+    "userEmail": "kavita.m@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Assistant Meteorologist",
+    "issueDate": "2025-04-15",
+    "expiryDate": "2028-04-14",
+    "score": 90,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032342d313431313a6b61766974612e6d40696d642e676f762e696e3a39303a323032352d30342d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-1548",
+    "courseId": "crs-sat-202",
+    "courseTitle": "Satellite Meteorology & INSAT-3D/3DR Imagery Analysis",
+    "courseCode": "CRS-SAT-202",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-5",
+    "userName": "Debabrata Das",
+    "userEmail": "debabrata.d@imd.gov.in",
+    "userOffice": "Guwahati NEC",
+    "userDesignation": "Scientific Assistant (Telemetry)",
+    "issueDate": "2025-05-15",
+    "expiryDate": "2028-05-14",
+    "score": 79,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032342d313534383a6465626162726174612e6440696d642e676f762e696e3a37393a323032352d30352d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-1685",
+    "courseId": "crs-agr-104",
+    "courseTitle": "Agrometeorological Advisory & Gramin Krishi Mausam Sewa (GKMS)",
+    "courseCode": "CRS-AGR-104",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-6",
+    "userName": "Ananya Mukherjee",
+    "userEmail": "ananya.m@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Meteorologist 'A' (NWP Division)",
+    "issueDate": "2025-06-15",
+    "expiryDate": "2028-06-14",
+    "score": 92,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032342d313638353a616e616e79612e6d40696d642e676f762e696e3a39323a323032352d30362d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-1822",
+    "courseId": "crs-avi-203",
+    "courseTitle": "Aviation Weather Services, METAR & SIGMET Dissemination",
+    "courseCode": "CRS-AVI-203",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-7",
+    "userName": "Ramesh Kumar Yadav",
+    "userEmail": "ramesh.yadav@imd.gov.in",
+    "userOffice": "Nagpur RMC",
+    "userDesignation": "Scientific Assistant (Instruments)",
+    "issueDate": "2025-07-15",
+    "expiryDate": "2028-07-14",
+    "score": 81,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032342d313832323a72616d6573682e796164617640696d642e676f762e696e3a38313a323032352d30372d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-1959",
+    "courseId": "crs-mon-302",
+    "courseTitle": "South Asian Monsoon Dynamics & Extended Range Forecasting",
+    "courseCode": "CRS-MON-302",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Lead",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-8",
+    "userName": "Sunita Devi",
+    "userEmail": "sunita.devi@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Assistant Meteorologist",
+    "issueDate": "2025-08-15",
+    "expiryDate": "2028-08-14",
+    "score": 94,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032342d313935393a73756e6974612e6465766940696d642e676f762e696e3a39343a323032352d30382d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-2096",
+    "courseId": "crs-dqc-105",
+    "courseTitle": "Meteorological Surface Data Quality Control & WMO Compliance",
+    "courseCode": "CRS-DQC-105",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-9",
+    "userName": "Anitha Krishnan",
+    "userEmail": "anitha.k@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2025-01-15",
+    "expiryDate": "2028-01-14",
+    "score": 83,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032342d323039363a616e697468612e6b40696d642e676f762e696e3a38333a323032352d30312d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-2233",
+    "courseId": "crs-clm-204",
+    "courseTitle": "Climate Change Projections & Gridded Met-Data Analysis",
+    "courseCode": "CRS-CLM-204",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Lead",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-10",
+    "userName": "Priya Nair",
+    "userEmail": "priya.nair@imd.gov.in",
+    "userOffice": "Mumbai RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-02-15",
+    "expiryDate": "2028-02-14",
+    "score": 96,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032342d323233333a70726979612e6e61697240696d642e676f762e696e3a39363a323032352d30322d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-2370",
+    "courseId": "crs-hpc-303",
+    "courseTitle": "High Performance Computing (HPC) for WRF & GFS Operational Clusters",
+    "courseCode": "CRS-HPC-303",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-11",
+    "userName": "Suresh Pillai",
+    "userEmail": "suresh.pillai@imd.gov.in",
+    "userOffice": "Kolkata RMC",
+    "userDesignation": "Meteorologist 'B'",
+    "issueDate": "2025-03-15",
+    "expiryDate": "2028-03-14",
+    "score": 85,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032342d323337303a7375726573682e70696c6c616940696d642e676f762e696e3a38353a323032352d30332d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-2507",
+    "courseId": "crs-lgt-106",
+    "courseTitle": "Severe Thunderstorm Dynamics & Lightning Detection Networks",
+    "courseCode": "CRS-LGT-106",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-12",
+    "userName": "Pooja Sharma",
+    "userEmail": "pooja.sharma@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Junior Scientific Assistant",
+    "issueDate": "2025-04-15",
+    "expiryDate": "2028-04-14",
+    "score": 98,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032342d323530373a706f6f6a612e736861726d6140696d642e676f762e696e3a39383a323032352d30342d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-2644",
+    "courseId": "crs-mar-205",
+    "courseTitle": "Marine Meteorological Services, Wave Modeling & Coastal Hazards",
+    "courseCode": "CRS-MAR-205",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-13",
+    "userName": "Mohan Das",
+    "userEmail": "mohan.das@imd.gov.in",
+    "userOffice": "Kolkata RMC",
+    "userDesignation": "Observing Officer Gr-II",
+    "issueDate": "2025-05-15",
+    "expiryDate": "2028-05-14",
+    "score": 87,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032342d323634343a6d6f68616e2e64617340696d642e676f762e696e3a38373a323032352d30352d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-2781",
+    "courseId": "crs-mtn-206",
+    "courseTitle": "Mountain Meteorology, Snowmelt Runoff & Western Disturbances",
+    "courseCode": "CRS-MTN-206",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Lead",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-14",
+    "userName": "Kiran Deka",
+    "userEmail": "kiran.deka@imd.gov.in",
+    "userOffice": "Guwahati NEC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-06-15",
+    "expiryDate": "2028-06-14",
+    "score": 76,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032342d323738313a6b6972616e2e64656b6140696d642e676f762e696e3a37363a323032352d30362d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2024-2918",
+    "courseId": "crs-urb-107",
+    "courseTitle": "Urban Meteorology, Dense Rain Gauge Networks & Flash Flood Early Warning",
+    "courseCode": "CRS-URB-107",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Lead",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-15",
+    "userName": "Gurpreet Kaur",
+    "userEmail": "gurpreet.kaur@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Assistant Meteorologist (Aviation)",
+    "issueDate": "2025-07-15",
+    "expiryDate": "2028-07-14",
+    "score": 89,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032342d323931383a67757270726565742e6b61757240696d642e676f762e696e3a38393a323032352d30372d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-3055",
+    "courseId": "crs-air-207",
+    "courseTitle": "Atmospheric Chemistry, Air Quality Modeling & SAFAR Operations",
+    "courseCode": "CRS-AIR-207",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Lead",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-16",
+    "userName": "Nandini Reddy",
+    "userEmail": "nandini.reddy@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2025-08-15",
+    "expiryDate": "2028-08-14",
+    "score": 78,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032352d333035353a6e616e64696e692e726564647940696d642e676f762e696e3a37383a323032352d30382d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-3192",
+    "courseId": "crs-drt-208",
+    "courseTitle": "Drought Monitoring, Soil Moisture Sensing & Standardized Precipitation Index",
+    "courseCode": "CRS-DRT-208",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-17",
+    "userName": "Harish Chandra Pant",
+    "userEmail": "harish.pant@imd.gov.in",
+    "userOffice": "Nagpur RMC",
+    "userDesignation": "Observing Officer Gr-I",
+    "issueDate": "2025-01-15",
+    "expiryDate": "2028-01-14",
+    "score": 91,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032352d333139323a6861726973682e70616e7440696d642e676f762e696e3a39313a323032352d30312d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-3329",
+    "courseId": "crs-ins-108",
+    "courseTitle": "Meteorological Sensor Calibration, Traceability & Lab Metrology",
+    "courseCode": "CRS-INS-108",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-18",
+    "userName": "Snigdha Roy",
+    "userEmail": "snigdha.roy@imd.gov.in",
+    "userOffice": "Kolkata RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-02-15",
+    "expiryDate": "2028-02-14",
+    "score": 80,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032352d333332393a736e69676468612e726f7940696d642e676f762e696e3a38303a323032352d30322d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-3466",
+    "courseId": "crs-spw-304",
+    "courseTitle": "Space Weather, Ionospheric Disturbances & Solar Flare Impacts",
+    "courseCode": "CRS-SPW-304",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-19",
+    "userName": "Pradeep Jena",
+    "userEmail": "pradeep.jena@imd.gov.in",
+    "userOffice": "Kolkata RMC",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2025-03-15",
+    "expiryDate": "2028-03-14",
+    "score": 93,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032352d333436363a707261646565702e6a656e6140696d642e676f762e696e3a39333a323032352d30332d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-3603",
+    "courseId": "crs-mhe-305",
+    "courseTitle": "Multi-Hazard Early Warning Systems (MHEWS) & Disaster Risk Governance",
+    "courseCode": "CRS-MHE-305",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-20",
+    "userName": "Manju Swaminathan",
+    "userEmail": "manju.s@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Assistant Meteorologist",
+    "issueDate": "2025-04-15",
+    "expiryDate": "2028-04-14",
+    "score": 82,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032352d333630333a6d616e6a752e7340696d642e676f762e696e3a38323a323032352d30342d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-3740",
+    "courseId": "crs-dwr-101",
+    "courseTitle": "Doppler Weather Radar (DWR) Principles & Severe Storm Nowcasting",
+    "courseCode": "CRS-DWR-101",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-21",
+    "userName": "Alok Ranjan",
+    "userEmail": "alok.ranjan@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-05-15",
+    "expiryDate": "2028-05-14",
+    "score": 95,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032352d333734303a616c6f6b2e72616e6a616e40696d642e676f762e696e3a39353a323032352d30352d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-3877",
+    "courseId": "crs-cyc-201",
+    "courseTitle": "Tropical Cyclone Monitoring, Tracking & Dvorak Technique",
+    "courseCode": "CRS-CYC-201",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-22",
+    "userName": "Sourav Ganguly",
+    "userEmail": "sourav.g@imd.gov.in",
+    "userOffice": "Kolkata RMC",
+    "userDesignation": "Junior Scientific Assistant",
+    "issueDate": "2025-06-15",
+    "expiryDate": "2028-06-14",
+    "score": 84,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032352d333837373a736f757261762e6740696d642e676f762e696e3a38343a323032352d30362d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4014",
+    "courseId": "crs-nwp-301",
+    "courseTitle": "Numerical Weather Prediction (NWP) Modeling & Data Assimilation",
+    "courseCode": "CRS-NWP-301",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-23",
+    "userName": "Arvind Joshi",
+    "userEmail": "arvind.joshi@imd.gov.in",
+    "userOffice": "Mumbai RMC",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2025-07-15",
+    "expiryDate": "2028-07-14",
+    "score": 97,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032352d343031343a617276696e642e6a6f73686940696d642e676f762e696e3a39373a323032352d30372d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4151",
+    "courseId": "crs-aws-102",
+    "courseTitle": "Automatic Weather Station (AWS & ARG) Network Maintenance & Calibration",
+    "courseCode": "CRS-AWS-102",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-24",
+    "userName": "Tanvi Deshmukh",
+    "userEmail": "tanvi.deshmukh@imd.gov.in",
+    "userOffice": "Nagpur RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-08-15",
+    "expiryDate": "2028-08-14",
+    "score": 86,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032352d343135313a74616e76692e646573686d756b6840696d642e676f762e696e3a38363a323032352d30382d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4288",
+    "courseId": "crs-sat-202",
+    "courseTitle": "Satellite Meteorology & INSAT-3D/3DR Imagery Analysis",
+    "courseCode": "CRS-SAT-202",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-25",
+    "userName": "Sandeep Patil",
+    "userEmail": "sandeep.patil@imd.gov.in",
+    "userOffice": "Mumbai RMC",
+    "userDesignation": "Assistant Meteorologist",
+    "issueDate": "2025-01-15",
+    "expiryDate": "2028-01-14",
+    "score": 75,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032352d343238383a73616e646565702e706174696c40696d642e676f762e696e3a37353a323032352d30312d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4425",
+    "courseId": "crs-agr-104",
+    "courseTitle": "Agrometeorological Advisory & Gramin Krishi Mausam Sewa (GKMS)",
+    "courseCode": "CRS-AGR-104",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-26",
+    "userName": "Rinchen Norbu",
+    "userEmail": "rinchen.norbu@imd.gov.in",
+    "userOffice": "Guwahati NEC",
+    "userDesignation": "High Altitude Observer",
+    "issueDate": "2025-02-15",
+    "expiryDate": "2028-02-14",
+    "score": 88,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032352d343432353a72696e6368656e2e6e6f72627540696d642e676f762e696e3a38383a323032352d30322d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4562",
+    "courseId": "crs-avi-203",
+    "courseTitle": "Aviation Weather Services, METAR & SIGMET Dissemination",
+    "courseCode": "CRS-AVI-203",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-27",
+    "userName": "Latha Venkatraman",
+    "userEmail": "latha.v@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-03-15",
+    "expiryDate": "2028-03-14",
+    "score": 77,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032352d343536323a6c617468612e7640696d642e676f762e696e3a37373a323032352d30332d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4699",
+    "courseId": "crs-mon-302",
+    "courseTitle": "South Asian Monsoon Dynamics & Extended Range Forecasting",
+    "courseCode": "CRS-MON-302",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Lead",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-28",
+    "userName": "Hemant Bisht",
+    "userEmail": "hemant.bisht@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Meteorologist 'B'",
+    "issueDate": "2025-04-15",
+    "expiryDate": "2028-04-14",
+    "score": 90,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032352d343639393a68656d616e742e626973687440696d642e676f762e696e3a39303a323032352d30342d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4836",
+    "courseId": "crs-dqc-105",
+    "courseTitle": "Meteorological Surface Data Quality Control & WMO Compliance",
+    "courseCode": "CRS-DQC-105",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-29",
+    "userName": "Nilanjana Sen",
+    "userEmail": "nilanjana.sen@imd.gov.in",
+    "userOffice": "Kolkata RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-05-15",
+    "expiryDate": "2028-05-14",
+    "score": 79,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032352d343833363a6e696c616e6a616e612e73656e40696d642e676f762e696e3a37393a323032352d30352d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2025-4973",
+    "courseId": "crs-clm-204",
+    "courseTitle": "Climate Change Projections & Gridded Met-Data Analysis",
+    "courseCode": "CRS-CLM-204",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Lead",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-30",
+    "userName": "Gagandeep Singh",
+    "userEmail": "gagandeep.s@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Radar Technical Officer",
+    "issueDate": "2025-06-15",
+    "expiryDate": "2028-06-14",
+    "score": 92,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032352d343937333a676167616e646565702e7340696d642e676f762e696e3a39323a323032352d30362d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2026-5110",
+    "courseId": "crs-hpc-303",
+    "courseTitle": "High Performance Computing (HPC) for WRF & GFS Operational Clusters",
+    "courseCode": "CRS-HPC-303",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-31",
+    "userName": "Vandana Tripathi",
+    "userEmail": "vandana.t@imd.gov.in",
+    "userOffice": "Nagpur RMC",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2025-07-15",
+    "expiryDate": "2028-07-14",
+    "score": 81,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032362d353131303a76616e64616e612e7440696d642e676f762e696e3a38313a323032352d30372d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2026-5247",
+    "courseId": "crs-lgt-106",
+    "courseTitle": "Severe Thunderstorm Dynamics & Lightning Detection Networks",
+    "courseCode": "CRS-LGT-106",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-32",
+    "userName": "Mahesh Bhatt",
+    "userEmail": "mahesh.bhatt@imd.gov.in",
+    "userOffice": "Mumbai RMC",
+    "userDesignation": "Observing Officer Gr-I",
+    "issueDate": "2025-08-15",
+    "expiryDate": "2028-08-14",
+    "score": 94,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032362d353234373a6d61686573682e626861747440696d642e676f762e696e3a39343a323032352d30382d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2026-5384",
+    "courseId": "crs-mar-205",
+    "courseTitle": "Marine Meteorological Services, Wave Modeling & Coastal Hazards",
+    "courseCode": "CRS-MAR-205",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-33",
+    "userName": "Sushmita Das",
+    "userEmail": "sushmita.das@imd.gov.in",
+    "userOffice": "Guwahati NEC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-01-15",
+    "expiryDate": "2028-01-14",
+    "score": 83,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032362d353338343a737573686d6974612e64617340696d642e676f762e696e3a38333a323032352d30312d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2026-5521",
+    "courseId": "crs-mtn-206",
+    "courseTitle": "Mountain Meteorology, Snowmelt Runoff & Western Disturbances",
+    "courseCode": "CRS-MTN-206",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Lead",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-34",
+    "userName": "Dinesh Chandra",
+    "userEmail": "dinesh.chandra@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Observing Officer Gr-II",
+    "issueDate": "2025-02-15",
+    "expiryDate": "2028-02-14",
+    "score": 96,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032362d353532313a64696e6573682e6368616e64726140696d642e676f762e696e3a39363a323032352d30322d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2026-5658",
+    "courseId": "crs-urb-107",
+    "courseTitle": "Urban Meteorology, Dense Rain Gauge Networks & Flash Flood Early Warning",
+    "courseCode": "CRS-URB-107",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Lead",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-35",
+    "userName": "Pallavi Gawande",
+    "userEmail": "pallavi.g@imd.gov.in",
+    "userOffice": "Nagpur RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2025-03-15",
+    "expiryDate": "2028-03-14",
+    "score": 85,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032362d353635383a70616c6c6176692e6740696d642e676f762e696e3a38353a323032352d30332d3135",
+    "status": "valid"
+  },
+  {
+    "id": "IMD-CERT-2026-5795",
+    "courseId": "crs-air-207",
+    "courseTitle": "Atmospheric Chemistry, Air Quality Modeling & SAFAR Operations",
+    "courseCode": "CRS-AIR-207",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Lead",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-36",
+    "userName": "Rohit Verma",
+    "userEmail": "rohit.verma@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2023-10-15",
+    "expiryDate": "2026-10-26",
+    "score": 98,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032362d353739353a726f6869742e7665726d6140696d642e676f762e696e3a39383a323032332d31302d3135",
+    "status": "expiring"
+  },
+  {
+    "id": "IMD-CERT-2026-5932",
+    "courseId": "crs-drt-208",
+    "courseTitle": "Drought Monitoring, Soil Moisture Sensing & Standardized Precipitation Index",
+    "courseCode": "CRS-DRT-208",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-37",
+    "userName": "Geeta Nair",
+    "userEmail": "geeta.nair@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2023-10-15",
+    "expiryDate": "2026-10-15",
+    "score": 87,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032362d353933323a67656574612e6e61697240696d642e676f762e696e3a38373a323032332d31302d3135",
+    "status": "expiring"
+  },
+  {
+    "id": "IMD-CERT-2026-6069",
+    "courseId": "crs-ins-108",
+    "courseTitle": "Meteorological Sensor Calibration, Traceability & Lab Metrology",
+    "courseCode": "CRS-INS-108",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-38",
+    "userName": "Prakash Soren",
+    "userEmail": "prakash.soren@imd.gov.in",
+    "userOffice": "Kolkata RMC",
+    "userDesignation": "Observing Officer Gr-I",
+    "issueDate": "2023-10-15",
+    "expiryDate": "2026-10-16",
+    "score": 76,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032362d363036393a7072616b6173682e736f72656e40696d642e676f762e696e3a37363a323032332d31302d3135",
+    "status": "expiring"
+  },
+  {
+    "id": "IMD-CERT-2026-6206",
+    "courseId": "crs-spw-304",
+    "courseTitle": "Space Weather, Ionospheric Disturbances & Solar Flare Impacts",
+    "courseCode": "CRS-SPW-304",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-39",
+    "userName": "Jagdish Prasad",
+    "userEmail": "jagdish.prasad@imd.gov.in",
+    "userOffice": "Nagpur RMC",
+    "userDesignation": "AWS Field Technician",
+    "issueDate": "2023-10-15",
+    "expiryDate": "2026-10-17",
+    "score": 89,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032362d363230363a6a6167646973682e70726173616440696d642e676f762e696e3a38393a323032332d31302d3135",
+    "status": "expiring"
+  },
+  {
+    "id": "IMD-CERT-2026-6343",
+    "courseId": "crs-mhe-305",
+    "courseTitle": "Multi-Hazard Early Warning Systems (MHEWS) & Disaster Risk Governance",
+    "courseCode": "CRS-MHE-305",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-40",
+    "userName": "Swati Chawla",
+    "userEmail": "swati.chawla@imd.gov.in",
+    "userOffice": "Mumbai RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2023-10-15",
+    "expiryDate": "2026-10-18",
+    "score": 78,
+    "grade": "Pass",
+    "verificationHash": "494d442d434552542d323032362d363334333a73776174692e636861776c6140696d642e676f762e696e3a37383a323032332d31302d3135",
+    "status": "expiring"
+  },
+  {
+    "id": "IMD-CERT-2026-6480",
+    "courseId": "crs-dwr-101",
+    "courseTitle": "Doppler Weather Radar (DWR) Principles & Severe Storm Nowcasting",
+    "courseCode": "CRS-DWR-101",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "skills": [
+          "Climate Change Trend & Gridded NetCDF Analysis",
+          "Extended Range Monsoon Forecasting",
+          "Python for Atmospheric Sciences",
+          "Surface Observation Quality Control"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "skills": [
+          "Aviation METAR/TAF Coding",
+          "Lightning & Thunderstorm Nowcasting",
+          "Doppler Radar Interpretation",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-1",
+    "userName": "Dr. Rajesh Sharma",
+    "userEmail": "trainee@imd.gov.in",
+    "userOffice": "New Delhi HQ",
+    "userDesignation": "Meteorologist 'A'",
+    "issueDate": "2023-02-10",
+    "expiryDate": "2026-02-09",
+    "score": 91,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032362d363438303a747261696e656540696d642e676f762e696e3a39313a323032332d30322d3130",
+    "status": "expired"
+  },
+  {
+    "id": "IMD-CERT-2026-6617",
+    "courseId": "crs-cyc-201",
+    "courseTitle": "Tropical Cyclone Monitoring, Tracking & Dvorak Technique",
+    "courseCode": "CRS-CYC-201",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "skills": [
+          "Urban Hydrology & Dense Rain Gauge Networks",
+          "Doppler Radar Interpretation",
+          "Storm Surge Modeling",
+          "Multi-Hazard Disaster Early Warning (MHEWS)"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-2",
+    "userName": "Smt. Priya Sundaram",
+    "userEmail": "priya.sundaram@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Scientific Assistant",
+    "issueDate": "2023-02-10",
+    "expiryDate": "2026-02-09",
+    "score": 80,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032362d363631373a70726979612e73756e646172616d40696d642e676f762e696e3a38303a323032332d30322d3130",
+    "status": "expired"
+  },
+  {
+    "id": "IMD-CERT-2026-6754",
+    "courseId": "crs-nwp-301",
+    "courseTitle": "Numerical Weather Prediction (NWP) Modeling & Data Assimilation",
+    "courseCode": "CRS-NWP-301",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.88,
+        "skills": [
+          "Numerical Weather Prediction (NWP)",
+          "High Performance Computing (Pratyush/Mihir)",
+          "Python for Atmospheric Sciences",
+          "Extended Range Monsoon Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "skills": [
+          "High Performance Computing (Pratyush/Mihir)",
+          "Numerical Weather Prediction (NWP)",
+          "Python for Atmospheric Sciences",
+          "Telemetry & VSAT Communication Networks"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "skills": [
+          "Air Quality & SAFAR Modeling",
+          "Numerical Weather Prediction (NWP)",
+          "Surface Observation Quality Control",
+          "Python for Atmospheric Sciences"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-3",
+    "userName": "Shri Biman Baruah",
+    "userEmail": "biman.baruah@imd.gov.in",
+    "userOffice": "Guwahati NEC",
+    "userDesignation": "Observing Officer Gr-I",
+    "issueDate": "2023-02-10",
+    "expiryDate": "2026-02-09",
+    "score": 93,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032362d363735343a62696d616e2e62617275616840696d642e676f762e696e3a39333a323032332d30322d3130",
+    "status": "expired"
+  },
+  {
+    "id": "IMD-CERT-2026-6891",
+    "courseId": "crs-aws-102",
+    "courseTitle": "Automatic Weather Station (AWS & ARG) Network Maintenance & Calibration",
+    "courseCode": "CRS-AWS-102",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "skills": [
+          "Agrometeorological Advisory",
+          "AWS Station Calibration",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Agro-Climatic Zoning & Pest Surveillance"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "skills": [
+          "Drought Monitoring & SPI Analysis",
+          "Agrometeorological Advisory",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Python for Atmospheric Sciences"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Western Disturbances & Mountain Meteorology",
+          "Orographic Rainfall & Flash Flood Early Warning",
+          "Doppler Wind Profiler Diagnostics"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-4",
+    "userName": "Kavita Menon",
+    "userEmail": "kavita.m@imd.gov.in",
+    "userOffice": "Chennai RMC",
+    "userDesignation": "Assistant Meteorologist",
+    "issueDate": "2023-02-10",
+    "expiryDate": "2026-02-09",
+    "score": 82,
+    "grade": "First Class",
+    "verificationHash": "494d442d434552542d323032362d363839313a6b61766974612e6d40696d642e676f762e696e3a38323a323032332d30322d3130",
+    "status": "expired"
+  },
+  {
+    "id": "IMD-CERT-2026-7028",
+    "courseId": "crs-sat-202",
+    "courseTitle": "Satellite Meteorology & INSAT-3D/3DR Imagery Analysis",
+    "courseCode": "CRS-SAT-202",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.91,
+        "skills": [
+          "Satellite Remote Sensing & INSAT",
+          "Dvorak Satellite Intensity Analysis",
+          "Space Weather & Solar Magnetic Activity",
+          "Atmospheric Sounding & Tephigram Analysis"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "skills": [
+          "Tropical Cyclone Tracking",
+          "Dvorak Satellite Intensity Analysis",
+          "Storm Surge Modeling",
+          "Marine Wave & Ocean Current Forecasting"
+        ]
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "skills": [
+          "Doppler Radar Interpretation",
+          "Dual Polarization Radar Operations",
+          "Lightning & Thunderstorm Nowcasting",
+          "Weather Briefing & Decision Support Systems"
+        ]
+      }
+    ],
+    "userId": "usr-trainee-5",
+    "userName": "Debabrata Das",
+    "userEmail": "debabrata.d@imd.gov.in",
+    "userOffice": "Guwahati NEC",
+    "userDesignation": "Scientific Assistant (Telemetry)",
+    "issueDate": "2024-05-10",
+    "expiryDate": "2027-05-09",
+    "score": 95,
+    "grade": "Distinction",
+    "verificationHash": "494d442d434552542d323032362d373032383a6465626162726174612e6440696d642e676f762e696e3a39353a323032342d30352d3130",
+    "status": "revoked"
+  }
+]

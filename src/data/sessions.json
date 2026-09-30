@@ -1,0 +1,772 @@
+[
+  {
+    "id": "ses-01",
+    "title": "Severe Squall Line Radar Diagnostics & Urban Flash Flooding",
+    "titleHi": "गंभीर स्क्वॉल लाइन रडार निदान एवं शहरी अचानक बाढ़",
+    "trainerId": "usr-trainer-1",
+    "trainerName": "Dr. Sunita Kulkarni",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.92,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-10-05",
+    "time": "14:30 - 16:00 IST",
+    "duration": "90 mins",
+    "office": "New Delhi HQ",
+    "courseId": "crs-dwr-101",
+    "status": "scheduled",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Doppler Radar Operations",
+    "targetRegion": "Northern Region",
+    "language": "English & Hindi"
+  },
+  {
+    "id": "ses-02",
+    "title": "North Indian Ocean Cyclone Pre-Season Operational Briefing",
+    "titleHi": "उत्तरी हिंद महासागर चक्रवात पूर्व-मौसम परिचालन ब्रीफिंग",
+    "trainerId": "usr-trainer-2",
+    "trainerName": "Dr. V. R. Radhakrishnan",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.91,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-10-10",
+    "time": "11:00 - 12:30 IST",
+    "duration": "90 mins",
+    "office": "Chennai RMC",
+    "courseId": "crs-cyc-201",
+    "status": "scheduled",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Tropical Cyclone Tracking",
+    "targetRegion": "Southern & Coastal Region",
+    "language": "English"
+  },
+  {
+    "id": "ses-03",
+    "title": "Hands-on Sensor Troubleshooting for Remote Hill AWS Stations",
+    "titleHi": "दूरस्थ पहाड़ी AWS स्टेशनों के लिए व्यावहारिक सेंसर समस्या निवारण",
+    "trainerId": "usr-trainer-3",
+    "trainerName": "Dr. Tapan Sengupta",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Co-trainer",
+        "rating": 4.86,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-10-14",
+    "time": "15:00 - 16:30 IST",
+    "duration": "90 mins",
+    "office": "Guwahati NEC",
+    "courseId": "crs-aws-102",
+    "status": "accepted",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "AWS Calibration & Maintenance",
+    "targetRegion": "North Eastern Region",
+    "language": "Hindi & Bengali"
+  },
+  {
+    "id": "ses-04",
+    "title": "NWP Model Data Assimilation & High Performance Computing Workshop",
+    "titleHi": "NWP मॉडल डेटा समावेश एवं उच्च प्रदर्शन कंप्यूटिंग कार्यशाला",
+    "trainerId": "usr-trainer-4",
+    "trainerName": "Dr. Arun Kumar Singh",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Lead",
+        "rating": 4.88,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Co-trainer",
+        "rating": 4.83,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-10-19",
+    "time": "10:30 - 12:00 IST",
+    "duration": "90 mins",
+    "office": "New Delhi HQ",
+    "courseId": "crs-nwp-301",
+    "status": "accepted",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "NWP & Supercomputing",
+    "targetRegion": "National",
+    "language": "English"
+  },
+  {
+    "id": "ses-05",
+    "title": "Satellite Meteorology Masterclass: INSAT-3DR Rapid Scanning Pass",
+    "titleHi": "उपग्रह मौसम विज्ञान मास्टरक्लास: इनसैट-3डीआर रैपिड स्कैनिंग पास",
+    "trainerId": "usr-trainer-5",
+    "trainerName": "Dr. Meenakshi Iyer",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.91,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-10-24",
+    "time": "14:00 - 15:30 IST",
+    "duration": "90 mins",
+    "office": "Chennai RMC",
+    "courseId": "crs-sat-202",
+    "status": "scheduled",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Satellite Meteorology",
+    "targetRegion": "Southern Region",
+    "language": "English & Hindi"
+  },
+  {
+    "id": "ses-06",
+    "title": "Aviation Forecaster Briefing on Severe Winter Fog & RVR Nowcasting",
+    "titleHi": "गंभीर शीतकालीन कोहरा एवं आरवीआर नाउकास्टिंग पर विमानन ब्रीफिंग",
+    "trainerId": "usr-trainer-9",
+    "trainerName": "Dr. Karthik Subramanian",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.84,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-10-28",
+    "time": "11:30 - 13:00 IST",
+    "duration": "90 mins",
+    "office": "New Delhi HQ",
+    "courseId": "crs-avi-203",
+    "status": "accepted",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Aviation Fog Hazards",
+    "targetRegion": "Northern Plains",
+    "language": "English & Hindi"
+  },
+  {
+    "id": "ses-07",
+    "title": "Urban Flood Early Warning & High-Density Automated Rain Gauges",
+    "titleHi": "शहरी बाढ़ पूर्व चेतावनी एवं उच्च घनत्व स्वचालित वर्षामापी",
+    "trainerId": "usr-trainer-12",
+    "trainerName": "Dr. Bhaskar Rao",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Lead",
+        "rating": 4.9,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.96,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-11-02",
+    "time": "15:00 - 16:30 IST",
+    "duration": "90 mins",
+    "office": "Mumbai RMC",
+    "courseId": "crs-urb-107",
+    "status": "scheduled",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Urban Flood Resilience",
+    "targetRegion": "Western Region",
+    "language": "English & Marathi"
+  },
+  {
+    "id": "ses-08",
+    "title": "District Agromet Advisory Verification & Farmer Dissemination",
+    "titleHi": "जिला कृषि मौसम परामर्श सत्यापन एवं किसान प्रसार",
+    "trainerId": "usr-trainer-3",
+    "trainerName": "Dr. Tapan Sengupta",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-6",
+        "name": "Dr. Rajesh Patel",
+        "designation": "Scientist 'D' (Climate & Monsoon Division)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.82,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-11-06",
+    "time": "10:00 - 11:30 IST",
+    "duration": "90 mins",
+    "office": "Guwahati NEC",
+    "courseId": "crs-agr-104",
+    "status": "accepted",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Agromet Advisory",
+    "targetRegion": "North Eastern Region",
+    "language": "Hindi & Assamese"
+  },
+  {
+    "id": "ses-09",
+    "title": "Atmospheric Chemistry & Air Quality Modeling (SAFAR AQEWS)",
+    "titleHi": "वायुमंडलीय रसायन विज्ञान एवं वायु गुणवत्ता मॉडलिंग (सफर)",
+    "trainerId": "usr-trainer-11",
+    "trainerName": "Dr. Faisal Ahmed",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-11",
+        "name": "Dr. Faisal Ahmed",
+        "designation": "Scientist 'D' (Atmospheric Chemistry & SAFAR)",
+        "office": "Kolkata RMC",
+        "role": "Lead",
+        "rating": 4.83,
+        "status": "invited"
+      },
+      {
+        "trainerId": "usr-trainer-4",
+        "name": "Dr. Arun Kumar Singh",
+        "designation": "Scientist 'E' (NWP Modeling Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.88,
+        "status": "invited"
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "status": "invited"
+      }
+    ],
+    "date": "2026-11-11",
+    "time": "14:00 - 15:30 IST",
+    "duration": "90 mins",
+    "office": "Kolkata RMC",
+    "courseId": "crs-air-207",
+    "status": "invited",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Air Quality Forecasting",
+    "targetRegion": "Eastern Region",
+    "language": "English & Hindi"
+  },
+  {
+    "id": "ses-10",
+    "title": "Mountain Weather Dynamics & Snow Avalanche Threat Nowcasting",
+    "titleHi": "पर्वतीय मौसम गतिशीलता एवं हिमस्खलन खतरा नाउकास्टिंग",
+    "trainerId": "usr-trainer-7",
+    "trainerName": "Dr. Deepa Joshi",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-7",
+        "name": "Dr. Deepa Joshi",
+        "designation": "Scientist 'D' (Radar & Mountain Weather)",
+        "office": "Nagpur RMC",
+        "role": "Lead",
+        "rating": 4.86,
+        "status": "invited"
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "status": "invited"
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "status": "invited"
+      }
+    ],
+    "date": "2026-11-16",
+    "time": "11:00 - 12:30 IST",
+    "duration": "90 mins",
+    "office": "Nagpur RMC",
+    "courseId": "crs-mtn-206",
+    "status": "invited",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Mountain Meteorology",
+    "targetRegion": "Central & Northern Region",
+    "language": "English & Hindi"
+  },
+  {
+    "id": "ses-11",
+    "title": "Marine Weather Risk & Ocean Wave Energy Forecasting",
+    "titleHi": "समुद्री मौसम जोखिम एवं महासागर तरंग ऊर्जा पूर्वानुमान",
+    "trainerId": "usr-trainer-2",
+    "trainerName": "Dr. V. R. Radhakrishnan",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.91,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-11-20",
+    "time": "14:30 - 16:00 IST",
+    "duration": "90 mins",
+    "office": "Chennai RMC",
+    "courseId": "crs-mar-205",
+    "status": "scheduled",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Marine Meteorological Services",
+    "targetRegion": "Coastal Waters",
+    "language": "English"
+  },
+  {
+    "id": "ses-12",
+    "title": "Space Weather Monitoring & Geomagnetic Storm Warning",
+    "titleHi": "अंतरिक्ष मौसम निगरानी एवं भू-चुंबकीय तूफान चेतावनी",
+    "trainerId": "usr-trainer-5",
+    "trainerName": "Dr. Meenakshi Iyer",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-5",
+        "name": "Dr. Meenakshi Iyer",
+        "designation": "Scientist 'E' (Satellite Meteorology)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.91,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-8",
+        "name": "Dr. Vikram Chauhan",
+        "designation": "Scientist 'E' (HPC & Infrastructure Lead)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.89,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-11-24",
+    "time": "10:30 - 12:00 IST",
+    "duration": "90 mins",
+    "office": "New Delhi HQ",
+    "courseId": "crs-spw-304",
+    "status": "scheduled",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Space Weather & GNSS",
+    "targetRegion": "National",
+    "language": "English"
+  },
+  {
+    "id": "ses-13",
+    "title": "National Sensor Traceability & ISO 17025 Laboratory Compliance",
+    "titleHi": "राष्ट्रीय सेंसर पता लगाने की क्षमता एवं आईएसओ 17025 प्रयोगशाला अनुपालन",
+    "trainerId": "usr-trainer-3",
+    "trainerName": "Dr. Tapan Sengupta",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-3",
+        "name": "Dr. Tapan Sengupta",
+        "designation": "Scientist 'D' (Agrometeorology)",
+        "office": "Guwahati NEC",
+        "role": "Lead",
+        "rating": 4.85,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-10",
+        "name": "Dr. Rituparna Bora",
+        "designation": "Scientist 'D' (Hydrology & Drought)",
+        "office": "Guwahati NEC",
+        "role": "Co-trainer",
+        "rating": 4.87,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-9",
+        "name": "Dr. Karthik Subramanian",
+        "designation": "Scientist 'D' (Aviation Meteorological Office)",
+        "office": "Chennai RMC",
+        "role": "Co-trainer",
+        "rating": 4.84,
+        "status": "declined"
+      }
+    ],
+    "date": "2026-11-27",
+    "time": "15:00 - 16:30 IST",
+    "duration": "90 mins",
+    "office": "Nagpur RMC",
+    "courseId": "crs-ins-108",
+    "status": "declined",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "Lab Metrology",
+    "targetRegion": "Central Region",
+    "language": "English & Hindi"
+  },
+  {
+    "id": "ses-14",
+    "title": "Multi-Hazard Disaster Warning & NDMA Common Alerting Protocol",
+    "titleHi": "बहु-खतरा आपदा चेतावनी एवं एनडीएमए कॉमन अलर्टिंग प्रोटोकॉल",
+    "trainerId": "usr-trainer-2",
+    "trainerName": "Dr. V. R. Radhakrishnan",
+    "trainers": [
+      {
+        "trainerId": "usr-trainer-2",
+        "name": "Dr. V. R. Radhakrishnan",
+        "designation": "Scientist 'F' (Cyclone Warning Division)",
+        "office": "Chennai RMC",
+        "role": "Lead",
+        "rating": 4.96,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-12",
+        "name": "Dr. Bhaskar Rao",
+        "designation": "Scientist 'E' (Urban Meteorology & Floods)",
+        "office": "Mumbai RMC",
+        "role": "Co-trainer",
+        "rating": 4.9,
+        "status": "accepted"
+      },
+      {
+        "trainerId": "usr-trainer-1",
+        "name": "Dr. Sunita Kulkarni",
+        "designation": "Scientist 'E' (Senior Radar Specialist)",
+        "office": "New Delhi HQ",
+        "role": "Co-trainer",
+        "rating": 4.92,
+        "status": "accepted"
+      }
+    ],
+    "date": "2026-11-30",
+    "time": "11:00 - 12:30 IST",
+    "duration": "90 mins",
+    "office": "New Delhi HQ",
+    "courseId": "crs-mhe-305",
+    "status": "scheduled",
+    "attendees": [
+      "usr-trainee-1",
+      "usr-trainee-2",
+      "usr-trainee-3",
+      "usr-trainee-4",
+      "usr-trainee-5",
+      "usr-trainee-6"
+    ],
+    "recordingUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "hasTranscript": true,
+    "topic": "MHEWS Governance",
+    "targetRegion": "National",
+    "language": "English & Hindi"
+  }
+]

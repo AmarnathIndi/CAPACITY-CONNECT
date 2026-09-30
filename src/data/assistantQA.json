@@ -1,0 +1,467 @@
+[
+  {
+    "keywords": [
+      "rayleigh",
+      "reflectivity",
+      "diameter",
+      "d^6",
+      "scattering",
+      "रडार परावर्तकता",
+      "रेले"
+    ],
+    "answer": "Under Rayleigh scattering conditions, the radar reflectivity factor Z is proportional to the sixth power of raindrop diameter (Z ∝ D^6). This means larger raindrops generate exponentially higher backscatter reflectivity.",
+    "answerHi": "रेले प्रकीर्णन स्थितियों के तहत, रडार परावर्तकता कारक Z वर्षा की बूंद के व्यास की छठी घात के आनुपातिक होता है (Z ∝ D^6)। इसका मतलब है कि बड़ी बूंदें तेजी से उच्च परावर्तकता उत्पन्न करती हैं।",
+    "citation": "IMD DWR Technical Manual #42, Page 14 & Video CRS-DWR-101 (02:30)"
+  },
+  {
+    "keywords": [
+      "mesocyclone",
+      "dipole",
+      "velocity couplet",
+      "rotation",
+      "tornado",
+      "मेसोसाइक्लोन",
+      "वेग"
+    ],
+    "answer": "A tight adjacent couplet of inbound (green/blue) and outbound (red) radial velocities in a PPI display indicates strong cyclonic rotation or a mesocyclone, signaling high tornadic or microburst risk.",
+    "answerHi": "पीपीआई डिस्प्ले में इनबाउंड (हरा) और आउटबाउंड (लाल) वेगों का एक तंग युग्म मजबूत चक्रवाती घूर्णन या मेसोसाइक्लोन को इंगित करता है, जो उच्च बवंडर या माइक्रोबर्स्ट जोखिम का संकेत देता है।",
+    "citation": "IMD Doppler Radar Principles, Module 1 (08:45)"
+  },
+  {
+    "keywords": [
+      "s-band",
+      "c-band",
+      "coastal",
+      "attenuation",
+      "एस-बैंड",
+      "तटीय"
+    ],
+    "answer": "IMD deploys S-band radars (10 cm wavelength, 2.7–3.0 GHz) along coastal regions like Chennai, Kolkata, and Visakhapatnam because S-band suffers virtually no attenuation through dense tropical rain walls.",
+    "answerHi": "आईएमडी चेन्नई, कोलकाता और विशाखापत्तनम जैसे तटीय क्षेत्रों में एस-बैंड रडार (10 सेमी तरंग दैर्ध्य) तैनात करता है क्योंकि भारी उष्णकटिबंधीय बारिश में एस-बैंड का क्षीणन नगण्य होता है।",
+    "citation": "IMD Radar Network Infrastructure Manual, Page 8"
+  },
+  {
+    "keywords": [
+      "hail",
+      "dual pol",
+      "dual polarization",
+      "zdr",
+      "ओला",
+      "दोहरी ध्रुवीकरण"
+    ],
+    "answer": "Large hail is identified in dual-pol radar by high reflectivity (Z > 55 dBZ) coupled with low differential reflectivity (Zdr near 0 dB), caused by tumbling spherical hailstones.",
+    "answerHi": "बड़े ओलों की पहचान दोहरी-ध्रुवीकरण रडार में उच्च परावर्तकता (Z > 55 dBZ) के साथ निम्न अंतर परावर्तकता (Zdr लगभग 0 dB) द्वारा की जाती है, जो गिरते हुए ओलों के गोलाकार व्यवहार के कारण होती है।",
+    "citation": "IMD Dual-Polarization Operations Guide, Page 31 & Video CRS-DWR-101 (14:10)"
+  },
+  {
+    "keywords": [
+      "hook echo",
+      "supercell",
+      "हुक इको"
+    ],
+    "answer": "A classic hook echo on reflectivity displays signifies precipitation wrapping cyclonically around the storm updraft, indicating a well-organized supercell capable of tornadoes.",
+    "answerHi": "परावर्तकता डिस्प्ले पर एक क्लासिक हुक इको तूफान के अपड्राफ्ट के चारों ओर चक्रवाती रूप से घूमती वर्षा को दर्शाता है, जो बवंडर पैदा करने में सक्षम सुपरसेल का संकेत देता है।",
+    "citation": "IMD Severe Storm Nowcasting Handbook, Page 45"
+  },
+  {
+    "keywords": [
+      "nowcast",
+      "sop",
+      "orange alert",
+      "red alert",
+      "नाउकास्ट",
+      "चेतावनी"
+    ],
+    "answer": "IMD Nowcast SOP requires issuing an Orange or Red alert when radar echo tops exceed 10-12 km with core reflectivity above 50 dBZ or when severe hail cores (>55 dBZ) are detected moving toward urban clusters.",
+    "answerHi": "आईएमडी नाउकास्ट एसओपी के अनुसार जब रडार इको टॉप 10-12 किमी से अधिक हो और कोर परावर्तकता 50 dBZ से अधिक हो, या शहरी क्षेत्रों की ओर बढ़ते ओलों का पता चले तो ऑरेंज/रेड अलर्ट जारी किया जाता है।",
+    "citation": "IMD Standard Operating Procedure for Nowcast Services, Module 3 Notes"
+  },
+  {
+    "keywords": [
+      "cyclonic storm",
+      "wind speed",
+      "knots",
+      "चक्रवाती तूफान",
+      "हवा की गति"
+    ],
+    "answer": "A tropical depression intensifies into a 'Cyclonic Storm' when sustained 3-minute surface wind speeds reach 34 to 47 knots (62 to 88 km/h).",
+    "answerHi": "एक उष्णकटिबंधीय डिप्रेशन तब 'चक्रवाती तूफान' बन जाता है जब 3-मिनट की निरंतर सतह हवा की गति 34 से 47 समुद्री मील (62 से 88 किमी/घंटा) तक पहुंच जाती है।",
+    "citation": "IMD Cyclone Warning SOP Bulletin 2024, Page 5"
+  },
+  {
+    "keywords": [
+      "dvorak",
+      "embedded center",
+      "t-number",
+      "ड्वोरक",
+      "टी-संख्या"
+    ],
+    "answer": "The Dvorak technique's Embedded Center pattern determines storm intensity (T-number) by calculating how deeply the eye or cloud system center is embedded inside cold cloud tops of the Central Dense Overcast (CDO).",
+    "answerHi": "ड्वोरक तकनीक का एम्बेडेड सेंटर पैटर्न यह गणना करके तूफान की तीव्रता (टी-संख्या) निर्धारित करता है कि आंख सीडीओ के ठंडे बादलों के अंदर कितनी गहराई में एम्बेडेड है।",
+    "citation": "INSAT-3D Cyclone Interpretation Guide, Page 22 & Video CRS-CYC-201 (05:22)"
+  },
+  {
+    "keywords": [
+      "tchp",
+      "ocean heat",
+      "heat potential",
+      "ऊष्मा क्षमता",
+      "समुद्र"
+    ],
+    "answer": "Tropical Cyclone Heat Potential (TCHP > 50 kJ/cm²), measuring ocean thermal energy down to the 26°C isotherm, is the chief thermodynamic fuel causing rapid cyclone intensification over the Bay of Bengal.",
+    "answerHi": "उष्णकटिबंधीय चक्रवात ऊष्मा क्षमता (TCHP > 50 kJ/cm²), जो 26°C इज़ोथर्म तक समुद्र की ऊष्मा ऊर्जा को मापती है, बंगाल की खाड़ी में तीव्र चक्रवात वृद्धि का मुख्य कारण है।",
+    "citation": "Ocean-Atmosphere Dynamics in Bay of Bengal, IIT Delhi Manual, Page 19"
+  },
+  {
+    "keywords": [
+      "storm surge",
+      "quadrant",
+      "landfall",
+      "तूफान उछाल"
+    ],
+    "answer": "In the northern Indian Ocean, the Right Front Quadrant of a cyclone makes the most severe storm surge because counter-clockwise rotational winds align with the storm's forward translational speed.",
+    "answerHi": "उत्तरी हिंद महासागर में, चक्रवात का दायां अग्र चतुर्थांश सबसे गंभीर तूफान उछाल लाता है क्योंकि वामावर्त घूर्णन हवाएं तूफान के आगे बढ़ने की गति के साथ जुड़ जाती हैं।",
+    "citation": "IMD Storm Surge Forecasting SOP, Page 12"
+  },
+  {
+    "keywords": [
+      "tipping bucket",
+      "calibration",
+      "rain gauge",
+      "टिपिंग बकेट",
+      "वर्षामापी"
+    ],
+    "answer": "Tipping bucket rain gauges are calibrated using a continuous regulated drip burette to deliver 100 tips per 50.0 mm of measured water, verifying zero error on the reed switch pulse.",
+    "answerHi": "टिपिंग बकेट रेन गेज को 50.0 मिमी मापे गए पानी पर 100 टिप्स देने के लिए एक विनियमित ड्रिप ब्यूरेट का उपयोग करके अंशांकित किया जाता है।",
+    "citation": "AWS Maintenance Field Engineering Handbook, Section 4.2"
+  },
+  {
+    "keywords": [
+      "insat-3dr",
+      "water vapor",
+      "sounder",
+      "जल वाष्प",
+      "इनसैट"
+    ],
+    "answer": "INSAT-3DR 6.7 micrometer water vapor channel tracks middle-to-upper tropospheric moisture conveyor belts and identifies dry air intrusions responsible for breaking storm updrafts.",
+    "answerHi": "इनसैट-3डीआर 6.7 माइक्रोमीटर जल वाष्प चैनल मध्य-से-ऊपरी क्षोभमंडलीय नमी कन्वेयर बेल्ट को ट्रैक करता है और शुष्क हवा के प्रवेश की पहचान करता है।",
+    "citation": "INSAT-3DR Operational Interpretation Manual, Page 38"
+  },
+  {
+    "keywords": [
+      "gkms",
+      "agromet",
+      "advisory",
+      "कृषि मौसम",
+      "सलाहकार"
+    ],
+    "answer": "Gramin Krishi Mausam Sewa (GKMS) bulletins are issued twice weekly (Tuesdays and Fridays) at district and block levels, combining 5-day weather forecasts with crop phenology guidance.",
+    "answerHi": "ग्रामीण कृषि मौसम सेवा (GKMS) बुलेटिन सप्ताह में दो बार (मंगलवार और शुक्रवार) जिला और ब्लॉक स्तर पर जारी किए जाते हैं।",
+    "citation": "GKMS Operational Guidelines, Ministry of Earth Sciences, Page 9"
+  },
+  {
+    "keywords": [
+      "metar",
+      "speci",
+      "aviation",
+      "विमानन",
+      "हवाई अड्डा"
+    ],
+    "answer": "A METAR is a routine half-hourly aeronautical report, whereas a SPECI is issued immediately when weather conditions cross safety thresholds like visibility < 800m or cloud base < 200ft.",
+    "answerHi": "METAR एक नियमित आधा घंटे की वैमानिकी रिपोर्ट है, जबकि SPECI तब जारी की जाती है जब दृश्यता < 800 मीटर जैसी सुरक्षा सीमा पार हो जाती है।",
+    "citation": "ICAO Annex 3 & IMD Aviation Manual, Page 17"
+  },
+  {
+    "keywords": [
+      "findlater",
+      "low level jet",
+      "llj",
+      "फाइंडलेटर",
+      "मानसून जेट"
+    ],
+    "answer": "The Findlater Jet (Somali Low-Level Jet) is a cross-equatorial southwesterly airstream centered around 850 hPa that transports massive moisture from the southern Indian Ocean to the Indian subcontinent.",
+    "answerHi": "फाइंडलेटर जेट (सोमाली लो-लेवल जेट) 850 hPa के आसपास केंद्रित एक क्रॉस-इक्वेटोरियल दक्षिण-पश्चिमी हवा का प्रवाह है जो भारतीय उपमहाद्वीप में भारी नमी पहुंचाता है।",
+    "citation": "Monsoon Meteorology, IMD Monograph #14, Page 52"
+  },
+  {
+    "keywords": [
+      "bufr",
+      "wmo",
+      "format",
+      "बाइनरी",
+      "बीयूएफआर"
+    ],
+    "answer": "WMO BUFR is a table-driven binary format replacing legacy ASCII alphanumeric codes, providing microsecond timestamps, higher floating-point coordinate precision, and descriptive metadata.",
+    "answerHi": "WMO BUFR एक टेबल-संचालित बाइनरी प्रारूप है जो उच्च परिशुद्धता फ्लोटिंग-पॉइंट निर्देशांक और मेटाडेटा प्रदान करता है।",
+    "citation": "WMO Manual on Codes #306 & IMD Data Policy, Page 6"
+  },
+  {
+    "keywords": [
+      "supercomputer",
+      "pratyush",
+      "mihir",
+      "hpc",
+      "प्रत्युष",
+      "सुपरकंप्यूटर"
+    ],
+    "answer": "IMD runs global ensemble prediction systems (NEPS) on the MoES Pratyush (IITM Pune) and Mihir (NCMRWF Noida) supercomputers across thousands of CPU cores using Slurm and OpenMPI.",
+    "answerHi": "आईएमडी एमओईएस प्रत्युष (आईआईटीएम पुणे) और मिहिर (एनसीएमआरडब्ल्यूएफ नोएडा) सुपरकंप्यूटर पर उच्च-रिज़ॉल्यूशन मॉडल चलाता है।",
+    "citation": "MoES HPC Operations Manual 2025, Page 3"
+  },
+  {
+    "keywords": [
+      "damini",
+      "lightning",
+      "jump",
+      "बिजली",
+      "दामिनी"
+    ],
+    "answer": "A total lightning rate jump (rapid increase in inter-cloud and cloud-to-ground flashes within a 5-minute window) precedes severe surface hail and severe microburst winds by 15-25 minutes.",
+    "answerHi": "कुल बिजली दर में तेज वृद्धि (5 मिनट की विंडो के भीतर तेज वृद्धि) 15-25 मिनट पहले गंभीर सतह ओलों और माइक्रोबर्स्ट हवाओं की चेतावनी देती है।",
+    "citation": "IMD Damini Sensor Network Handbook, Page 29"
+  },
+  {
+    "keywords": [
+      "wavewatch",
+      "wave height",
+      "swell",
+      "तरंग",
+      "समुद्री"
+    ],
+    "answer": "WAVEWATCH III numerical wave model forecasts significant wave height (SWH), peak wave period, and swell direction for coastal fishing harbors and merchant shipping corridors.",
+    "answerHi": "वेववॉच III मॉडल तटीय मछली पकड़ने के बंदरगाहों और शिपिंग के लिए महत्वपूर्ण तरंग ऊंचाई और स्वेल दिशा का पूर्वानुमान लगाता है।",
+    "citation": "IMD Marine Forecasting Manual, Page 44"
+  },
+  {
+    "keywords": [
+      "western disturbance",
+      "himalayas",
+      "snowfall",
+      "पश्चिमी विक्षोभ",
+      "बर्फबारी"
+    ],
+    "answer": "Western Disturbances are extratropical cyclonic systems originating over the Mediterranean Sea that embed in the subtropical westerly jet, causing heavy winter snow and rain over north India.",
+    "answerHi": "पश्चिमी विक्षोभ भूमध्य सागर में उत्पन्न होने वाले अतिरिक्त-उष्णकटिबंधीय चक्रवाती सिस्टम हैं जो उत्तर भारत में भारी बर्फबारी और बारिश का कारण बनते हैं।",
+    "citation": "Mountain Weather Dynamics, Central Training Division, Page 27"
+  },
+  {
+    "keywords": [
+      "safar",
+      "aqi",
+      "pm2.5",
+      "air quality",
+      "सफर",
+      "वायु गुणवत्ता"
+    ],
+    "answer": "System of Air Quality and Weather Forecasting And Research (SAFAR) predicts 72-hour Air Quality Index (AQI) using WRF-Chem coupled with emission inventories for PM2.5, PM10, NOx, and ozone.",
+    "answerHi": "सफर (SAFAR) PM2.5, PM10 और ओजोन के लिए उत्सर्जन सूची के साथ WRF-Chem का उपयोग करके 72 घंटे के वायु गुणवत्ता सूचकांक (AQI) का पूर्वानुमान लगाता है।",
+    "citation": "SAFAR Technical Bulletin #18, IITM/IMD, Page 11"
+  },
+  {
+    "keywords": [
+      "spi",
+      "drought",
+      "soil moisture",
+      "सूखा",
+      "एसपीआई"
+    ],
+    "answer": "The Standardized Precipitation Index (SPI) measures precipitation anomalies on 1, 3, 6, and 12-month timescales. An SPI below -1.5 indicates severe drought, while below -2.0 denotes extreme drought.",
+    "answerHi": "मानकीकृत वर्षा सूचकांक (SPI) -1.5 से नीचे गंभीर सूखे को इंगित करता है, जबकि -2.0 से नीचे अत्यधिक सूखे को दर्शाता है।",
+    "citation": "National Drought Monitoring Manual, IMD Pune, Page 33"
+  },
+  {
+    "keywords": [
+      "prt",
+      "temperature",
+      "calibration",
+      "तापमान",
+      "अंशांकन"
+    ],
+    "answer": "IMD Platinum Resistance Thermometers (Pt100) are calibrated against standard triple point of water (0.01°C) and gallium melting point cells (29.7646°C) to ensure ±0.05°C traceability.",
+    "answerHi": "आईएमडी प्लेटिनम प्रतिरोध थर्मामीटर (Pt100) को ±0.05°C सटीकता सुनिश्चित करने के लिए पानी के ट्रिपल पॉइंट (0.01°C) पर अंशांकित किया जाता है।",
+    "citation": "National Calibration Laboratory Standards, Rev 5, Page 15"
+  },
+  {
+    "keywords": [
+      "space weather",
+      "solar flare",
+      "cme",
+      "अंतरिक्ष मौसम",
+      "सौर ज्वाला"
+    ],
+    "answer": "Solar flares and coronal mass ejections (CMEs) disrupt Earth's ionosphere, inducing geomagnetically induced currents (GICs) in national power grids and degrading NavIC satellite positioning.",
+    "answerHi": "सौर ज्वालाएं और कोरोनल मास इजेक्शन (सीएमई) पृथ्वी के आयनमंडल को बाधित करते हैं और नाविक (NavIC) उपग्रह पोजिशनिंग को प्रभावित करते हैं।",
+    "citation": "IMD Space Weather Operational Directive, Page 7"
+  },
+  {
+    "keywords": [
+      "mhews",
+      "cap",
+      "ndma",
+      "आपदा",
+      "अलर्ट"
+    ],
+    "answer": "Common Alerting Protocol (CAP) enables automated cross-platform dissemination of color-coded warnings (Yellow: Watch, Orange: Alert, Red: Warning) directly to mobile phones and state EOCs.",
+    "answerHi": "कॉमन अलर्टिंग प्रोटोकॉल (CAP) मोबाइल फोन और राज्य आपातकालीन केंद्रों पर सीधे रंग-कोडित चेतावनियों (येलो, ऑरेंज, रेड) का स्वचालित प्रसार सक्षम बनाता है।",
+    "citation": "MHEWS National SOP, NDMA-IMD Joint Framework, Page 14"
+  },
+  {
+    "keywords": [
+      "tephigram",
+      "cape",
+      "cin",
+      "टेफीग्राम",
+      "संवहन"
+    ],
+    "answer": "On an IMD Tephigram, Convective Available Potential Energy (CAPE > 1500 J/kg) indicates high buoyancy for severe thunderstorms, while Convective Inhibition (CIN) represents the capping inversion layer.",
+    "answerHi": "टेफीग्राम पर, संवहनी उपलब्ध संभावित ऊर्जा (CAPE > 1500 J/kg) गंभीर तूफानों के लिए उच्च उछाल को इंगित करती है।",
+    "citation": "Aerological Soundings Interpretation Guide, Page 23"
+  },
+  {
+    "keywords": [
+      "microburst",
+      "downburst",
+      "wind shear",
+      "माइक्रोबर्स्ट",
+      "विंड शीयर"
+    ],
+    "answer": "Microbursts produce intense diverging radial velocity signatures with outbound and inbound velocities exceeding 30 knots across less than 4 km, posing catastrophic danger to landing aircraft.",
+    "answerHi": "माइक्रोबर्स्ट 4 किमी से कम क्षेत्र में 30 समुद्री मील से अधिक डाइवर्जिंग रेडियल वेग उत्पन्न करते हैं, जो लैंडिंग विमानों के लिए अत्यधिक खतरनाक हैं।",
+    "citation": "Aviation Wind Shear Advisory Manual, Page 19"
+  },
+  {
+    "keywords": [
+      "curved band",
+      "dvorak pattern",
+      "घुमावदार बैंड"
+    ],
+    "answer": "The Dvorak Curved Band pattern computes storm intensity based on how many tenth-fractions of a 10° log-spiral band of cold cloud tops surround the central storm circulation.",
+    "answerHi": "ड्वोरक कर्व्ड बैंड पैटर्न तूफान के परिसंचरण के चारों ओर ठंडे बादलों के 10° लॉग-सर्पिल बैंड के आधार पर तीव्रता की गणना करता है।",
+    "citation": "Dvorak Satellite Methodology, Chapter 3, Page 31"
+  },
+  {
+    "keywords": [
+      "solar battery",
+      "voltage",
+      "aws maintenance",
+      "बैटरी",
+      "सोलर"
+    ],
+    "answer": "AWS solar power systems require 12V 42Ah sealed lead-acid or LiFePO4 batteries; voltage dropping below 11.5V triggers an automatic low-battery telemetry flag in the central server.",
+    "answerHi": "एडब्ल्यूएस सोलर पावर सिस्टम को 12V बैटरी की आवश्यकता होती है; 11.5V से नीचे वोल्टेज गिरने पर स्वचालित लो-बैटरी अलर्ट ट्रिगर होता है।",
+    "citation": "Surface Instrumentation Standard Operating Procedures, Page 12"
+  },
+  {
+    "keywords": [
+      "sigmet",
+      "turbulence",
+      "icing",
+      "सिगमेट",
+      "अशांति"
+    ],
+    "answer": "SIGMETs are issued by Meteorological Watch Offices (MWOs) for severe turbulence (SEV TURB), severe icing (SEV ICE), mountain waves, and active volcanic ash clouds hazardous to aircraft.",
+    "answerHi": "विमानन सुरक्षा के लिए गंभीर अशांति, गंभीर आइसिंग और पर्वत तरंगों के लिए मौसम विज्ञान वॉच कार्यालयों द्वारा SIGMET जारी किए जाते हैं।",
+    "citation": "ICAO Annex 3 Meteorological Services for International Air Navigation, Page 40"
+  },
+  {
+    "keywords": [
+      "monsoon depression",
+      "head bay",
+      "मानसूनी डिप्रेशन"
+    ],
+    "answer": "Monsoon Depressions typically form over the North Bay of Bengal and move west-northwestward along the monsoon trough, producing heavy widespread rainfall across central India.",
+    "answerHi": "मानसूनी डिप्रेशन आमतौर पर उत्तरी बंगाल की खाड़ी पर बनते हैं और मध्य भारत में भारी वर्षा करते हुए पश्चिम-उत्तर-पश्चिम दिशा में आगे बढ़ते हैं।",
+    "citation": "South Asian Monsoon Mechanics, IMD Publication #9, Page 41"
+  },
+  {
+    "keywords": [
+      "mercury barometer",
+      "temperature correction",
+      "बैरोमीटर"
+    ],
+    "answer": "Mercury station barometers require temperature correction to 0°C, gravity correction to standard latitude 45° (9.80665 m/s²), and index correction before calculating Mean Sea Level Pressure (MSLP).",
+    "answerHi": "पारा बैरोमीटर को माध्य समुद्र तल दबाव (MSLP) की गणना करने से पहले 0°C तापमान सुधार और मानक गुरुत्वाकर्षण सुधार की आवश्यकता होती है।",
+    "citation": "Barometric Measurement Handbook, National Metrology Division, Page 18"
+  },
+  {
+    "keywords": [
+      "wind profiler",
+      "boundary layer",
+      "विंड प्रोफाइलर"
+    ],
+    "answer": "UHF (404 MHz / 1280 MHz) Doppler Wind Profilers measure clear-air turbulence and boundary layer wind vectors up to 6 km altitude with continuous 15-minute temporal resolution.",
+    "answerHi": "UHF डॉपलर विंड प्रोफाइलर 15 मिनट के समय अंतराल पर 6 किमी की ऊंचाई तक स्पष्ट-हवा विक्षोभ और हवा के वैक्टर को मापते हैं।",
+    "citation": "Remote Sensing Instrumentation, IMD Pune, Page 22"
+  },
+  {
+    "keywords": [
+      "fdr",
+      "soil moisture sensor",
+      "मृदा नमी"
+    ],
+    "answer": "Frequency Domain Reflectometry (FDR) probes estimate volumetric soil moisture by measuring the high dielectric permittivity of liquid water compared to surrounding dry soil minerals.",
+    "answerHi": "फ़्रीक्वेंसी डोमेन रिफ्लेक्टोमेट्री (FDR) जांच सूखी मिट्टी की तुलना में पानी के उच्च ढांकता हुआ पारगम्यता को मापकर मिट्टी की नमी का अनुमान लगाती है।",
+    "citation": "Agro-Hydrological Instrumentation SOP, Page 16"
+  },
+  {
+    "keywords": [
+      "tsunami",
+      "travel time",
+      "सुनमी"
+    ],
+    "answer": "Tsunami waves travel across the deep ocean at speeds proportional to the square root of water depth (v = sqrt(g*h)), reaching speeds up to 800 km/h in 5,000-meter deep waters.",
+    "answerHi": "सुनामी तरंगें गहरे समुद्र में पानी की गहराई के वर्गमूल (v = sqrt(g*h)) के आनुपातिक गति से यात्रा करती हैं, जो 800 किमी/घंटा तक पहुंचती हैं।",
+    "citation": "Ocean Hazards & Tsunami Early Warning, INCOIS-IMD SOP, Page 11"
+  },
+  {
+    "keywords": [
+      "urban heat island",
+      "uhi",
+      "शहरी ऊष्मा द्वीप"
+    ],
+    "answer": "Urban Heat Island (UHI) effect occurs when concrete, asphalt, and anthropogenic heat raise nocturnal urban temperatures 3°C to 7°C above surrounding rural stations.",
+    "answerHi": "शहरी ऊष्मा द्वीप (UHI) प्रभाव तब होता है जब कंक्रीट और मानवजनित गर्मी रात के शहरी तापमान को आसपास के ग्रामीण स्टेशनों से 3°C से 7°C ऊपर बढ़ा देती है।",
+    "citation": "Urban Climatology Monograph, IMD New Delhi, Page 35"
+  },
+  {
+    "keywords": [
+      "radio blackout",
+      "r1",
+      "r5",
+      "रेडियो ब्लैकआउट"
+    ],
+    "answer": "NOAA/IMD Space Weather scales classify Solar Radio Blackouts from R1 (Minor: brief HF loss) to R5 (Extreme: complete HF blackout across the sunlit hemisphere lasting hours).",
+    "answerHi": "रेडियो ब्लैकआउट पैमाने R1 (मामूली) से R5 (अत्यधिक: पूरे धूप वाले गोलार्ध में पूर्ण एचएफ ब्लैकआउट) तक वर्गीकृत हैं।",
+    "citation": "Space Weather Warning Scales & Communication Protocols, Page 8"
+  },
+  {
+    "keywords": [
+      "argo",
+      "ocean float",
+      "आर्गो फ्लोट"
+    ],
+    "answer": "Argo autonomous floats cycle between surface and 2,000 meters depth every 10 days, measuring salinity and temperature profiles essential for ocean heat assimilation in coupled NWP models.",
+    "answerHi": "आर्गो स्वायत्त फ्लोट्स हर 10 दिनों में सतह और 2,000 मीटर गहराई के बीच चक्र लगाते हैं, जो तापमान प्रोफाइल को मापते हैं।",
+    "citation": "Coupled Ocean-Atmospheric Modeling Guide, Page 26"
+  },
+  {
+    "keywords": [
+      "monsoon trough",
+      "trough",
+      "मानसून ट्रफ"
+    ],
+    "answer": "The Monsoon Trough is an elongated zone of low pressure extending from Pakistan's heat low across the Gangetic plains to the North Bay of Bengal, shifting north during monsoon 'breaks'.",
+    "answerHi": "मानसून ट्रफ कम दबाव का एक विस्तृत क्षेत्र है जो गंगा के मैदानों से उत्तरी बंगाल की खाड़ी तक फैला हुआ है।",
+    "citation": "Synoptic Meteorology Handbook, Central Training Division, Page 48"
+  },
+  {
+    "keywords": [
+      "cappi",
+      "radar product",
+      "कैप्पी"
+    ],
+    "answer": "Constant Altitude Plan Position Indicator (CAPPI) synthesizes multiple radar elevation sweeps to generate horizontal reflectivity slices at fixed operational heights (e.g., 2.0 km, 3.0 km AGL).",
+    "answerHi": "कॉन्स्टेंट एल्टीट्यूड प्लान पोजिशन इंडिकेटर (CAPPI) निश्चित परिचालन ऊंचाई पर क्षैतिज परावर्तकता स्लाइस उत्पन्न करने के लिए कई रडार स्वीप को संश्लेषित करता है।",
+    "citation": "IMD Doppler Radar Product Manual #42, Page 28"
+  }
+]

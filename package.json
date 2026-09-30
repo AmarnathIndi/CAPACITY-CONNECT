@@ -1,0 +1,43 @@
+{
+  "name": "capacity-connect",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:backend": "cd backend && npm run start:dev",
+    "build": "tsc -b && vite build",
+    "build:backend": "cd backend && npm run build",
+    "full-build": "npm run build && cd backend && npm run build",
+    "test:backend": "cd backend && npm test",
+    "seed:backend": "cd backend && npm run seed",
+    "load-test": "node backend/test/load-test.js",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "i18next": "^26.4.2",
+    "lucide-react": "^1.49.0",
+    "qrcode.react": "^4.2.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-i18next": "^17.0.15",
+    "react-router-dom": "^7.18.4",
+    "recharts": "^3.10.1",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "autoprefixer": "^10.6.1",
+    "oxlint": "^1.81.0",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.19",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}
